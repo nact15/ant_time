@@ -1,0 +1,95 @@
+include: package:lints/recommended.yaml
+
+linter:
+  rules:
+    - avoid_print
+    - sort_unnamed_constructors_first
+    - prefer_if_null_operators
+    - depend_on_referenced_packages
+    - always_use_package_imports
+    - avoid_init_to_null
+    - flutter_style_todos
+    - prefer_single_quotes
+    - use_rethrow_when_possible
+    - prefer_const_constructors
+    - prefer_const_declarations
+    - avoid_empty_else
+    - curly_braces_in_flow_control_structures
+    - await_only_futures
+    - avoid_void_async
+    - avoid_unnecessary_containers
+    - avoid_types_on_closure_parameters
+    - valid_regexps
+    - null_closures
+
+analyzer:
+  plugins:
+    - dart_code_metrics
+
+dart_code_metrics:
+  anti-patterns:
+    - long-method
+    - long-parameter-list
+  metrics:
+    cyclomatic-complexity: 20
+    maximum-nesting-level: 5
+    number-of-parameters: 10
+    source-lines-of-code: 200
+  metrics-exclude:
+    - test/**
+  rules:
+    - newline-before-return
+    - no-boolean-literal-compare
+    - no-empty-block
+    - prefer-trailing-comma:
+        break-on: 3
+    - prefer-conditional-expressions
+    - no-equal-then-else
+    - avoid-unused-parameters
+    - double-literal-format
+    - binary-expression-operand-order
+    - member-ordering:
+        order:
+          - public-fields
+          - constructors
+          - private-fields
+          - public-methods
+          - private-methods
+    - no-boolean-literal-compare
+#    - no-equal-arguments:
+#        ignored-parameters:
+#          - height
+#          - width
+    - no-equal-then-else
+    - always-remove-listener
+    - avoid-returning-widgets
+    - prefer-single-widget-per-file
+    - prefer-extracting-callbacks:
+        ignored-named-arguments:
+          - refresh
+          - onRefresh
+          - builder
+          - onWillPop
+          - onTap
+    - avoid-returning-widgets:
+        ignored-names:
+          - _buildBody
+        ignored-annotations:
+          - allowedAnnotation
+    - avoid-nested-conditional-expressions:
+        acceptable-level: 2
+    - avoid-unnecessary-type-casts
+    - avoid-unrelated-type-assertions
+    - prefer-first
+    - prefer-last
+    - prefer-single-widget-per-file:
+        ignore-private-widgets: true
+    - prefer-match-file-name:
+        exclude:
+          - test/**
+    - prefer-correct-type-name:
+        excluded: [ '' ]
+        min-length: 3
+        max-length: 50
+    - avoid-unnecessary-setstate
+    - prefer-const-border-radius

@@ -1,0 +1,173 @@
+Package: android-studio
+Source: android-studio-2022.2.1
+Priority: optional
+Section: devel
+Installed-Size: 8
+Maintainer: Maarten Fonville <maarten.fonville@gmail.com>
+Architecture: amd64
+Version: 2022.2.1.19~jammy+0
+Depends: android-studio-2022.2.1
+Filename: pool/main/a/android-studio-2022.2.1/android-studio_2022.2.1.19~jammy+0_amd64.deb
+Size: 1248
+MD5sum: 6025265ccf34c903e4447d59d41e6e02
+SHA1: 28ae175aae4ffef6f0f37600f59f48693c6f5061
+SHA256: 3946837ade67967f477cd2997439097cdeb919f3e557c9f84af7cae3e6bc45cf
+Description: Depends on the latest stable Android Studio
+Description-md5: 2d64acc22b9508d873c28799ddb8517c
+
+Package: android-studio-2020.3.1
+Priority: optional
+Section: devel
+Installed-Size: 28
+Maintainer: Maarten Fonville <maarten.fonville@gmail.com>
+Architecture: amd64
+Version: 2020.3.1.26~jammy+0
+Recommends: libc6-i386, lib32stdc++6, lib32gcc1, lib32ncurses5, lib32z1
+Suggests: default-jdk
+Depends: java-sdk, unzip
+Conflicts: android-studio-2021.1.1, android-studio-2021.2.1, android-studio-3.4, android-studio-3.5, android-studio-3.6, android-studio-4.0, android-studio-4.1, android-studio-4.2, android-studio-beta, android-studio-canary, android-studio-dev, android-studio-preview
+Pre-Depends: wget, coreutils
+Filename: pool/main/a/android-studio-2020.3.1/android-studio-2020.3.1_2020.3.1.26~jammy+0_amd64.deb
+Size: 5714
+MD5sum: ffa34b477e72372d59ae461eb457a611
+SHA1: 224a2260f2c7bf99c183452bd5eb7174171452ef
+SHA256: c081dfb0902150a87fecb7fac644185bfdb878c4bf713a3678e6739e02eb5d06
+Description: Android Studio
+Description-md5: 67bf82f6c20b38ba57759dd1920cca06
+
+Package: android-studio-2021.1.1
+Priority: optional
+Section: devel
+Installed-Size: 28
+Maintainer: Maarten Fonville <maarten.fonville@gmail.com>
+Architecture: amd64
+Version: 2021.1.1.23~jammy+0
+Recommends: libc6-i386, lib32stdc++6, lib32gcc1, lib32ncurses5, lib32z1
+Suggests: default-jdk
+Depends: java-sdk, unzip
+Conflicts: android-studio-2020.3.1, android-studio-2021.2.1, android-studio-2021.3.1, android-studio-3.4, android-studio-3.5, android-studio-3.6, android-studio-4.0, android-studio-4.1, android-studio-4.2, android-studio-beta, android-studio-canary, android-studio-dev, android-studio-preview
+Pre-Depends: wget, coreutils
+Filename: pool/main/a/android-studio-2021.1.1/android-studio-2021.1.1_2021.1.1.23~jammy+0_amd64.deb
+Size: 5702
+MD5sum: f2800c9b48af82b96630cdd3776a4bab
+SHA1: e4d5816c53172f47f828faf5cc327a0cf7152a48
+SHA256: b02880c224ff3dc279ecb0fa71d223f9bd803ec94ad53adb4de65442812ba440
+Description: Android Studio
+Description-md5: 67bf82f6c20b38ba57759dd1920cca06
+
+Package: android-studio-2021.2.1
+Priority: optional
+Section: devel
+Installed-Size: 28
+Maintainer: Maarten Fonville <maarten.fonville@gmail.com>
+Architecture: amd64
+Version: 2021.2.1.16~jammy+0
+Recommends: libc6-i386, lib32stdc++6, lib32gcc1, lib32ncurses5, lib32z1
+Suggests: default-jdk
+Depends: java-sdk, unzip
+Conflicts: android-studio-2020.3.1, android-studio-2021.1.1, android-studio-2021.3.1, android-studio-2022.1.1, android-studio-3.4, android-studio-3.5, android-studio-3.6, android-studio-4.0, android-studio-4.1, android-studio-4.2, android-studio-beta, android-studio-canary, android-studio-dev, android-studio-preview
+Pre-Depends: wget, coreutils
+Filename: pool/main/a/android-studio-2021.2.1/android-studio-2021.2.1_2021.2.1.16~jammy+0_amd64.deb
+Size: 5698
+MD5sum: 4f4a55a42c57ecc2749e4bd6841eb801
+SHA1: 2e64df21a110f6183ac4216853bc115da6613d75
+SHA256: 256ce3fbb3d436ef0ab21cb9999f1516b8e760123e0116199041d07cdeee36ad
+Description: Android Studio
+Description-md5: 67bf82f6c20b38ba57759dd1920cca06
+
+Package: android-studio-2021.3.1
+Priority: optional
+Section: devel
+Installed-Size: 28
+Maintainer: Maarten Fonville <maarten.fonville@gmail.com>
+Architecture: amd64
+Version: 2021.3.1.17~jammy+0
+Recommends: libc6-i386, lib32stdc++6, lib32gcc1, lib32ncurses5, lib32z1
+Suggests: default-jdk
+Depends: java-sdk, unzip
+Conflicts: android-studio-2020.3.1, android-studio-2021.1.1, android-studio-2021.2.1, android-studio-2022.1.1, android-studio-2022.2.1, android-studio-3.4, android-studio-3.5, android-studio-3.6, android-studio-4.0, android-studio-4.1, android-studio-4.2, android-studio-beta, android-studio-canary, android-studio-dev, android-studio-preview
+Pre-Depends: wget, coreutils
+Filename: pool/main/a/android-studio-2021.3.1/android-studio-2021.3.1_2021.3.1.17~jammy+0_amd64.deb
+Size: 5694
+MD5sum: 9d28580031fc42ad06cbf00d7924c15a
+SHA1: 24408dfaf8d4bcc2e40ec5fb503c62ff58ca3526
+SHA256: 1093505826345886487c9e9b1c843fae42123dc5e4729dd5acbf9114d3f3c0fc
+Description: Android Studio
+Description-md5: 67bf82f6c20b38ba57759dd1920cca06
+
+Package: android-studio-2022.1.1
+Priority: optional
+Section: devel
+Installed-Size: 28
+Maintainer: Maarten Fonville <maarten.fonville@gmail.com>
+Architecture: amd64
+Version: 2022.1.1.21~jammy+0
+Recommends: libc6-i386, lib32stdc++6, lib32gcc1, lib32ncurses5, lib32z1
+Depends: unzip
+Conflicts: android-studio-2020.3.1, android-studio-2021.1.1, android-studio-2021.2.1, android-studio-2021.3.1, android-studio-2022.2.1, android-studio-2022.3.1, android-studio-3.4, android-studio-3.5, android-studio-3.6, android-studio-4.0, android-studio-4.1, android-studio-4.2, android-studio-beta, android-studio-canary, android-studio-dev, android-studio-preview
+Pre-Depends: wget, coreutils
+Filename: pool/main/a/android-studio-2022.1.1/android-studio-2022.1.1_2022.1.1.21~jammy+0_amd64.deb
+Size: 5728
+MD5sum: 334e9e62fda5f054296e9e7e011a9010
+SHA1: 3b6dd1afbadbaef01b50100f4f0572873512c856
+SHA256: 5ae684401be2a76746ff87a3613dc607d7ad0ae9c56c7695fbef54e8313ead42
+Description: Android Studio
+Description-md5: 67bf82f6c20b38ba57759dd1920cca06
+
+Package: android-studio-2022.2.1
+Priority: optional
+Section: devel
+Installed-Size: 28
+Maintainer: Maarten Fonville <maarten.fonville@gmail.com>
+Architecture: amd64
+Version: 2022.2.1.19~jammy+0
+Recommends: libc6-i386, lib32stdc++6, lib32gcc1, lib32ncurses5, lib32z1
+Depends: unzip
+Conflicts: android-studio-2020.3.1, android-studio-2021.1.1, android-studio-2021.2.1, android-studio-2021.3.1, android-studio-2022.1.1, android-studio-2022.3.1, android-studio-2023.1.1, android-studio-3.4, android-studio-3.5, android-studio-3.6, android-studio-4.0, android-studio-4.1, android-studio-4.2, android-studio-beta, android-studio-canary, android-studio-dev, android-studio-preview
+Pre-Depends: wget, coreutils
+Filename: pool/main/a/android-studio-2022.2.1/android-studio-2022.2.1_2022.2.1.19~jammy+0_amd64.deb
+Size: 5720
+MD5sum: 2e4a25591a9b5480c4ff37ccc8118c40
+SHA1: 537ce8f543504c62f23c94e9fa2c7eb0166c5fcd
+SHA256: 56753525e06f57ee5f6fa38502e7c1766ff541fb71891aabd3f658f024c656d5
+Description: Android Studio
+Description-md5: 67bf82f6c20b38ba57759dd1920cca06
+
+Package: android-studio-2022.3.1
+Priority: optional
+Section: devel
+Installed-Size: 23
+Maintainer: Maarten Fonville <maarten.fonville@gmail.com>
+Architecture: amd64
+Version: 2022.3.1.12~jammy+0
+Recommends: libc6-i386, lib32stdc++6, lib32gcc1, lib32ncurses5, lib32z1
+Depends: unzip
+Conflicts: android-studio-2020.3.1, android-studio-2021.1.1, android-studio-2021.2.1, android-studio-2021.3.1, android-studio-2022.1.1, android-studio-2022.2.1, android-studio-3.4, android-studio-3.5, android-studio-3.6, android-studio-4.0, android-studio-4.1, android-studio-4.2, android-studio-beta, android-studio-canary, android-studio-dev, android-studio-preview
+Pre-Depends: wget, coreutils
+Filename: pool/main/a/android-studio-2022.3.1/android-studio-2022.3.1_2022.3.1.12~jammy+0_amd64.deb
+Size: 3894
+MD5sum: bebe05748c3962023f6133328eaac61c
+SHA1: 45904c55ff2d3c029da85f1f637909685ca481ea
+SHA256: 6339afb17049c49667c1005417082b6931977c82520acc5442954c23f0ec9d35
+Description: Android Studio
+Description-md5: 67bf82f6c20b38ba57759dd1920cca06
+
+Package: android-studio-2023.1.1
+Priority: optional
+Section: devel
+Installed-Size: 23
+Maintainer: Maarten Fonville <maarten.fonville@gmail.com>
+Architecture: amd64
+Version: 2023.1.1.4~jammy+0
+Suggests: libc6-i386, lib32z1
+Depends: unzip
+Conflicts: android-studio-2020.3.1, android-studio-2021.1.1, android-studio-2021.2.1, android-studio-2021.3.1, android-studio-2022.1.1, android-studio-2022.2.1, android-studio-2022.3.1, android-studio-3.4, android-studio-3.5, android-studio-3.6, android-studio-4.0, android-studio-4.1, android-studio-4.2, android-studio-beta, android-studio-canary, android-studio-dev, android-studio-preview
+Pre-Depends: wget, coreutils
+Filename: pool/main/a/android-studio-2023.1.1/android-studio-2023.1.1_2023.1.1.4~jammy+0_amd64.deb
+Size: 3882
+MD5sum: 2a60afd3c5a02d5259e19724ce3cf139
+SHA1: 068808bbce0eec221b5867495a964b5aff9ce8fe
+SHA256: 291fe6e3b37efa7dc2dbb260189c5bc5861913fa85cf62bf8d191d17003b2942
+Description: Android Studio
+Description-md5: 67bf82f6c20b38ba57759dd1920cca06
+

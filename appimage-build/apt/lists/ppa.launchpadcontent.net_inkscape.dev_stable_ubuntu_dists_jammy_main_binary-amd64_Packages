@@ -1,0 +1,19 @@
+Package: inkscape
+Priority: optional
+Section: graphics
+Installed-Size: 172213
+Maintainer: Inkscape developers <inkscape-devel@lists.inkscape.org>
+Architecture: amd64
+Version: 1:1.2.2+202305151914+b0a8486541~ubuntu22.04.1
+Recommends: aspell, imagemagick, perlmagick, libwmf-bin, python3-lxml, python3-bs4, python3-numpy, python3-scour, python3-cssselect, python3-packaging, python3-gi, python3-gi-cairo, python3-appdirs, gir1.2-gtk-3.0, adwaita-icon-theme-full
+Suggests: dia | dia-gnome, ruby, libsvg-perl, libxml-xql-perl, transfig, python3-serial, pstoedit
+Depends: libatkmm-1.6-1v5 (>= 2.28.2), libboost-filesystem1.74.0 (>= 1.74.0), libc6 (>= 2.35), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.15.10), libcairomm-1.0-1v5 (>= 1.12.0), libcdr-0.1-1, libdouble-conversion3 (>= 2.0.0), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.7.1), libgc1 (>= 1:7.2d), libgcc-s1 (>= 4.0), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.67.3), libglibmm-2.4-1v5 (>= 2.66.2), libgomp1 (>= 4.9), libgsl27 (>= 2.7.1), libgspell-1-2 (>= 1.8.2), libgtk-3-0 (>= 3.21.5), libgtkmm-3.0-1v5 (>= 3.24.5), libharfbuzz0b (>= 2.6.5), libjpeg8 (>= 8c), liblcms2-2 (>= 2.2+git20110628), libmagick++-6.q16-8, libpango-1.0-0 (>= 1.44.3), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.47.0), libpangomm-1.4-1v5 (>= 2.46.2), libpng16-16 (>= 1.6.2-1), libpoppler-glib8 (>= 0.18.0), libpoppler118 (>= 22.02.0), libpotrace0, libreadline8 (>= 6.0), librevenge-0.0-0, libsigc++-2.0-0v5 (>= 2.8.0), libsoup2.4-1 (>= 2.41.90), libstdc++6 (>= 11), libvisio-0.1-1, libwpg-0.3-3, libx11-6, libxml2 (>= 2.7.4), libxslt1.1 (>= 1.1.25), zlib1g (>= 1:1.1.4)
+Conflicts: inkscape-trunk, lib2geom1.1.0
+Filename: pool/main/i/inkscape/inkscape_1.2.2+202305151914+b0a8486541~ubuntu22.04.1_amd64.deb
+Size: 23787164
+MD5sum: 3c3004fb9097658798f7efaa9de93255
+SHA1: a0e374c8b473ef18d1ed7066f30eb73aa1271129
+SHA256: 103e836bf534893c779981af08f7021fae46cd19adcbf468ba103544973d7a34
+Description: vector-based drawing program
+Description-md5: c3a71f80427d1998f650b13c1188f8b0
+

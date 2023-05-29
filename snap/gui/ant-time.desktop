@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ant Time
+Comment=WebAnt Time Tracker
+Exec=ant-time
+Icon=${SNAP}/meta/gui/ant-time.png
+Terminal=false
+Type=Application
+Categories=Utility;

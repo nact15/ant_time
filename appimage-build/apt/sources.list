@@ -1,0 +1,5 @@
+deb https://ppa.launchpadcontent.net/inkscape.dev/stable/ubuntu/ jammy main
+deb https://ppa.launchpadcontent.net/maarten-fonville/android-studio/ubuntu/ jammy main
+deb https://ppa.launchpadcontent.net/yandex-load/main/ubuntu/ jammy main
+deb https://ppa.launchpadcontent.net/appimagelauncher-team/stable/ubuntu/ jammy main
+deb [arch=amd64 signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu   jammy stable

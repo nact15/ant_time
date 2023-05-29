@@ -1,0 +1,82 @@
+fastlane_require 'yaml'
+fastlane_require 'ostruct'
+
+project_settings = OpenStruct.new(YAML.load(open("#{Dir.pwd}/project_settings.yml")))
+team_confidential = OpenStruct.new(YAML.load(open("#{Dir.pwd}/team_confidential.yml")))
+
+lane :release do
+  beta_upload(group: project_settings[:webant_group], isRelease: true)
+end
+
+#---------------------------
+# Option: group - AppCenter group name to share build.
+#---------------------------
+lane :beta_upload do |options|
+  desc "Uploading to beta group: " + options[:group]
+
+  build(isRelease: options[:isRelease])
+
+  team_confidential = OpenStruct.new(YAML.load(open("#{Dir.pwd}/team_confidential.yml")))
+
+  appcenter_upload(
+      api_token: team_confidential[:appcentral_token],
+      owner_name: team_confidential[:appcentral_organization_name],
+      app_name: project_settings[:app_name],
+      ipa: "#{project_settings[:scheme]}.ipa",
+      dsym: "#{project_settings[:scheme]}.app.dSYM.zip",
+      release_notes: release_notes,
+      destinations: options[:group],
+      notify_testers: true,
+      mandatory_update: true)
+end
+
+lane :update_git do |options|
+  isRelease = options[:isRelease] == true
+  version = get_version_number(target: project_settings[:scheme])
+  build = get_build_number
+  if isRelease
+    commit_message = 'Fastlane - Release version: ' + version + ' build: ' + build
+
+  commit_version_bump(message: commit_message, force: true)
+  add_git_tag(tag: version)
+  if isRelease
+    push_to_git_remote(remote_branch: project_settings[:release_branch])
+  else
+    push_to_git_remote(remote_branch: project_settings[:beta_branch])
+  end
+  push_git_tags
+end
+
+lane :build do |options|
+  sync_code_signing(type: "appstore", force: true)
+
+  gym(scheme: project_settings[:scheme],
+      configuration: "Release",
+      export_xcargs: "-allowProvisioningUpdates",
+      xcargs: "OTHERCFLAGS='-DFLAG_NAME'")
+end
+
+# ---------------------------
+# Register  devices from devices.txt file and recreates provisioning profile
+# ---------------------------
+lane :add_devices do |options|
+  register_devices(
+    devices_file: "fastlane/devices.txt",
+    username: project_settings[:apple_user])
+  sync_code_signing(type: "development", force: true)
+end
+
+# ---------------------------
+# Update signings info.
+# ---------------------------
+lane :sync do |options|
+  sync_code_signing(type: "development", readonly: true)
+end
+
+lane :sync_force do |options|
+  sync_code_signing(generate_apple_certs: "false", type: "development", readonly: false)
+end
+
+after_all do |lane|
+  notification(message: " Fastlane finished '#{lane}' ") # Mac OS X Notification
+end

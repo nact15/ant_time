@@ -1,0 +1,17 @@
+Package: appimagelauncher
+Priority: optional
+Section: utils
+Installed-Size: 959
+Maintainer: Scarlett Moore <sgmoore@kde.org>
+Architecture: amd64
+Version: 202211022349-stable-0f91801~ubuntu22.04.1
+Depends: init-system-helpers (>= 1.52), libappimage0 (>= 0.1.6), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libglib2.0-0 (>= 2.39.4), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 11)
+Pre-Depends: binfmt-support
+Filename: pool/main/a/appimagelauncher/appimagelauncher_202211022349-stable-0f91801~ubuntu22.04.1_amd64.deb
+Size: 266862
+MD5sum: 8a86800b25c6d9de5baadc3e1696fb4b
+SHA1: 74ee8969b0306e93093d7f048f775a51b4e8790d
+SHA256: 87a003ada93fb91cf07836f58782b5929282a0a0ef818865588e4da8734720c9
+Description: AppImage helper
+Description-md5: 53be772364d3b7050f009d0ec9ca31d2
+

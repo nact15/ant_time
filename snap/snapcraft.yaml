@@ -1,0 +1,28 @@
+name: ant-time
+version: 1.0.0
+summary: Ant Time
+description: WebAnt Time Tracker
+
+confinement: strict
+base: core18
+grade: stable
+
+slots:
+  dbus-ant-time: # adjust accordingly to your app name
+    interface: dbus
+    bus: session
+    name: com.webant.ant_time
+    
+apps:
+  ant-time:
+    command: ant_time_flutter
+    extensions: [flutter-stable]
+    plugs:
+    - network
+    slots:
+      - dbus-ant-time
+parts:
+  ant-time:
+    source: .
+    plugin: flutter
+    flutter-target: lib/main.dart

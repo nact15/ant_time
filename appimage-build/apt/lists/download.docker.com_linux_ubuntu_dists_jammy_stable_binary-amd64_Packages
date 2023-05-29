@@ -1,0 +1,2598 @@
+Package: containerd.io
+Architecture: amd64
+Version: 1.5.10-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 109468
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.4.1)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.5.10-1_amd64.deb
+Size: 24932386
+MD5sum: 1528c680820f768056f9b1b341ccf8e6
+SHA1: 4e0e7996fee9cc8b7953cdb48530aecfef4a1529
+SHA256: 50184081ab63b795a85f6e2d6b3fbdaeb4119bbecb0c4feef1c43032a04a28e6
+SHA512: 4ad5745a03d8f21519e13d792d9f15821f65bb3a907a79be3e9021612355251d42a2d4949c3bb9d0c642e1fb7d1ec22f8ab6a92b6e066f79e3fe95af781d9e87
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.5.11-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 104978
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.4.1)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.5.11-1_amd64.deb
+Size: 22907282
+MD5sum: 848c1c14ebb8c7de98843f584c4fdc2d
+SHA1: a815dae2f80802453aafd2f0d62891500a776120
+SHA256: c0630a9abaaf3d1fed90db69fdeb19ab728c160c76eee6522e29f1cd6f0f3a01
+SHA512: 5220b0a7348f764c55a448bd87b5e8ff7a04834e7ef398da4ee0243383a4b60b3c021d3f2622adfb5fb4eef972feb9cb2e6043495a98ec60f8998aefa7085696
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.10-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 111103
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.10-1_amd64.deb
+Size: 27713190
+MD5sum: c22edee602504ec0e08a3f593ffdcefb
+SHA1: 1b5176183df1e7f06bb30705129dc36207fac256
+SHA256: 286f95a3d54ed145209a62cc43f02d27068cb59fc88b3500c6e0bf5e17634101
+SHA512: c883e648574e8c8d6ff6909fd0fb628012af052a5183a947f3f3bbbed239c4288244ca575f69e2ccd24db0cb271c8e5b00d3253a384a9bc2c85db9cda9009206
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.11-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 111116
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.11-1_amd64.deb
+Size: 27728146
+MD5sum: 6986e6afa5a8a522bb1ce725f4164086
+SHA1: 6c3045db00c797dc02c0d5ad8e7d49e6b2c87a0c
+SHA256: a2c4b658c8b16c8174df7ab3c8a7eb929374fa111e4ddb6276e09b16b0da6ebe
+SHA512: ff689bc0dfbcc0c2793d80608c7b0c09d2a877516110b625bb96b62762206ee0b77e74a0cd50de9c524fc1b9b7c3ddbcb1c56b29e9e72972b1897297a2a90c08
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.12-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 111116
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.12-1_amd64.deb
+Size: 27721158
+MD5sum: 851e0ffc1542ebb8cdcaf3a7a29a20e8
+SHA1: da6e83ca721d17282c90a354e14a792b844f52c2
+SHA256: 12817858a797bba4e521cd1e3a038e2f82b7d4e40c221cd8c0e59e5db011b716
+SHA512: bd2da6a35fc26a3f592e62789ad49bab12913335f6de122b844a08d94036aa0b09143ea40cfef6480a5146f071178122e6a71e553704d77955dba7849dde233b
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.13-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 111116
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.13-1_amd64.deb
+Size: 27722582
+MD5sum: ce451e498e09d24649abd48b8fc55f3c
+SHA1: 13c2289f9f5e28a5785762ad6ea7d909fa9b1dfe
+SHA256: 15d8516ba44e4d2fd1348419a11d249f52c3bf97aad9d6c15c052ffebf22d42f
+SHA512: 57df7b559fffd80d142cfaac5f5cb37dd93aba14388d16f0c602f38045bd0f2242ad6e5a58f20ca5fde2e0e8f8050db8b67bb33f51bb5c59b7da4071eb693c38
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.14-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 111116
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.14-1_amd64.deb
+Size: 27710638
+MD5sum: f76a0aa683cd088a26a472f9d306bd6a
+SHA1: a44dd8de75994cbd080155a6c7d2904e3aa11dc4
+SHA256: c1384c4b28ef09d0266e106d95638a18d482df1a90818b0df3e7774a4e48c08d
+SHA512: f3815ca1277967b8d4d1d66cf9c7a4e9937c47461a66ec53e98f26dc3886d098aa2ce156fa14279b6c404d5e59c4007890c121c02657cc291e59be57ac04cc26
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.15-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 111116
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.15-1_amd64.deb
+Size: 27709206
+MD5sum: b8d407e8f832f26365971a32d1261e73
+SHA1: e249049b318eb10b8617def16bd17d292742201e
+SHA256: 9c0fffb67136b44990aa4dd8dd73dbe2e01f901917639835e1c80cb2628df642
+SHA512: 70fcfc97e13b22bf34500d8b6ee4a2e11c491ff06b1e82b757b008209ee9d62bc22c4042f5a1d1930b2dec387e3480ee8ab4282372a7e6f45fa1fcdbcc2b0207
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.16-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 111116
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.16-1_amd64.deb
+Size: 27717370
+MD5sum: 416c557f1469f78a77c269565b960520
+SHA1: fb775c5672236ff81d42223ceda2d8658c0d09ee
+SHA256: 62aa5c04330cc012315cb631b873fbbc053739748d668cf6d4c40e324db46aca
+SHA512: 4ee583446d803caa9f223c1732fac2caa39b6d09eea76f0c6a61436daaf0628a11e687b1e4767568cc45c4afaad606e5e9b8fba71778450a2e8fa83e9699664c
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.18-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 112549
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.18-1_amd64.deb
+Size: 28216374
+MD5sum: fae381dc45731da1f078d78dc6e74648
+SHA1: 73f9757b5e5e7056b9fce9c924861aabfd82eac4
+SHA256: a1b023a558af2a943b455cc5385b0183c35c918d612cc2a164a6bebf0f2da4c8
+SHA512: 438b78eff7824c866245224be553fe83bd9b35eb029e95c5644e33d83337f152aa8c863c12bed6c413ec67e07db9450a968d003559bc74f8394c95b91a5a6da4
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.19-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 112549
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.19-1_amd64.deb
+Size: 28229366
+MD5sum: 28732af406d59eead275617d24aaed9c
+SHA1: a09f216fb5d78aacecc0178161cbd1ca3cbc280c
+SHA256: 594a169053d33ac53baa9fdcce615daa791d46b8cb924238bef95ed9ec57a540
+SHA512: 5ad0590097e90c2ecd0ebf84b98f94984f4fb1fcd9d1fbd417b90c012f7ced40e97a7cd0da0e5c1aec6ef9caa4523ab684912bb59b3f7f0f357136c1103a226e
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.20-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 112829
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.20-1_amd64.deb
+Size: 28278634
+MD5sum: e415b88f5f0d926a9192e804f7d3b693
+SHA1: 54145316eabe2bb16eb3b8a4773209b359486e38
+SHA256: 278f23ea4c1fb1aedde5d1c8c3737ae6903da20c8b3fe19250dda9a22589470f
+SHA512: 10ea8cc18a6fa7cc59eb886f20124045b2bd08468b4c7c8cf145428606cf2646af4195278962f428962344b34ebfcb601da1751d2e4bfe379817eadefcecf07d
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.21-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 112843
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.21-1_amd64.deb
+Size: 28306670
+MD5sum: f5f74fe82b9ee0104c22bd6950609324
+SHA1: 77749582caf50c9fd22553e41459f9b8ddaabe40
+SHA256: 5720f25f52c8f6d1688ca7304b410a8dcaeae8072df8678967ae2d6923581286
+SHA512: e032910685d1e4613dd34ffd206073c16cd292732d98cbdccbc1fce21c1e1ba4c66be4d0d55b4daa1b9079914a0d68a71c6f1806fc9236593f63e56d3d66f7cc
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.4-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 124321
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.4-1_amd64.deb
+Size: 28125030
+MD5sum: 8d6c7a825b56d15c02fe21ca7502950b
+SHA1: 429078ba4948395ab88cd06c6ef49ea37c965273
+SHA256: 911a4a67c1dd187fc15012fd178f41537bc63ce8961b813e345fd9f2069f4dcd
+SHA512: 8ccd8af3f8656ec32782c8b167e6c645b1d85b05616013d673f5b938efd777f47e3d2e5b02572fd36c7fa6c6dd008b183759cf9faf2eac781b0bf6e67f718154
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.6-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 124333
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.6-1_amd64.deb
+Size: 28122606
+MD5sum: af0d372346b79e91be33935852837e5c
+SHA1: 68804c5da7ba87e38d1ae0d2d9f8005edddf3900
+SHA256: 5406ea08b68b2ce6ed22a1a66ad5bdfb9de2fecbcdb1beb6147de781dd9d7af0
+SHA512: 74aabfcbb219fdbbbdfefa08596b69c66ba122ffff54d9f15c495d3d21d104583a00f8299a0454603daaf864398b3e72be2c247e623d3b60d5163bd86e546d7b
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.7-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 124365
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.7-1_amd64.deb
+Size: 28143734
+MD5sum: eb2b06bbf992e028d46fc41d19a255b4
+SHA1: c1f846751e73d5968302cbe12cd10e8493718109
+SHA256: 754f5a79dc9a669a3e9da2867c293440db56f4f4f6a9beb9d3f793c00acf6604
+SHA512: 94203e5d7f140859d22901500d0f841c39897a9144d4106c6d747c4044165f76e7f7ed0ceadc54206e0e9eb7b1f5ad537169ee25679b6f0479c8e886a1bf2bf9
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.8-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 124373
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.8-1_amd64.deb
+Size: 28142334
+MD5sum: af850597cad631d16dc20f37e8208297
+SHA1: dc3e61ccb2284cd54060d7abd63a0d7b823718f1
+SHA256: 74ce6b6b440073b6c64468a184d3f46c24061ee9f410e1812be38d60f8c16d12
+SHA512: 8a16516689b74e78d97536f59f62a990d0b4cd4110c4c14d9e92bbde7864362a5411498e2e9c5a2f61526de873b63d41ddb555eb8b550a8193b90ac5a80e77ec
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: containerd.io
+Architecture: amd64
+Version: 1.6.9-1
+Priority: optional
+Section: devel
+Maintainer: Containerd team <help@containerd.io>
+Installed-Size: 111105
+Provides: containerd, runc
+Depends: libc6 (>= 2.34), libseccomp2 (>= 2.5.0)
+Conflicts: containerd, runc
+Replaces: containerd, runc
+Filename: dists/jammy/pool/stable/amd64/containerd.io_1.6.9-1_amd64.deb
+Size: 27705382
+MD5sum: ed50c69d5342d441068907aeaa31e99e
+SHA1: e6194b9456d1109f430f37f2c05ffa16bac3e5d3
+SHA256: 4053f7937d136651b397de2401cbe0b0f7923a917b96071280d61ed70b0bb7dc
+SHA512: 4d66f21a1a9f2b5a923b05fb8468c527e9ddb77ecc84dd61d30dffb7cc6cc27dc2754c38207ea4f572c0ba5c9aaa675af0828fcb3f15311d9cfd59a7cf358f15
+Homepage: https://containerd.io
+Description: An open and reliable container runtime
+
+Package: docker-buildx-plugin
+Architecture: amd64
+Version: 0.10.2-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:23.0.0-1~ubuntu.22.04~jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 68883
+Replaces: docker-ce-cli
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-buildx-plugin_0.10.2-1~ubuntu.22.04~jammy_amd64.deb
+Size: 25915958
+MD5sum: f6b20c0b0e818cfbad0b9bfcc553e176
+SHA1: e50c71c0df1e9cb413372b5bdc1c41aaa1b71e7e
+SHA256: 6b820ff84f59f90284760ec19a3859a64082afc81a03d5cf0fc9044f767c3364
+SHA512: aefd054128312bdc25628ce130d0edc4c87d8d27256b1046fcc2d538551ef075e531ecdfdfc71cdb7f200e93afdf175f59d17aa1ba33e19a0fb67df28af4de28
+Homepage: https://github.com/docker/buildx
+Description: Docker Buildx cli plugin.
+
+Package: docker-buildx-plugin
+Architecture: amd64
+Version: 0.10.4-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:23.0.2-1~ubuntu.22.04~jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 68881
+Replaces: docker-ce-cli
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-buildx-plugin_0.10.4-1~ubuntu.22.04~jammy_amd64.deb
+Size: 25904946
+MD5sum: 8302dcb5a863e0b1c40fbc86c0a23547
+SHA1: f1a682d718ed297da14af4b5558945e9fa10743c
+SHA256: 955de8c7531c640a8a4e4b21b053c8d3efc633e3b970e11437b11e750d95d365
+SHA512: 4b4305ec11f6703a0021cfc93ac1c4cf91beef30d147bd13188d20b37f20fc5874de649ccc84ddf1f358fdb00d2a4dc64d012df6246798b73a2a2358dd9f049c
+Homepage: https://github.com/docker/buildx
+Description: Docker Buildx cli plugin.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:20.10.13~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 161041
+Depends: libc6 (>= 2.34)
+Recommends: docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.13~3-0~ubuntu-jammy_amd64.deb
+Size: 40955778
+MD5sum: ead43809732047202b4bd41b2d245b59
+SHA1: 3b467eca2dab9919826997b0225719270ece047c
+SHA256: 949365e59eac4cd324cb3da62f4633dbcacc19a3db42acbe177b08a8105096cb
+SHA512: 2efd5654d7e8c60cabdfbfb36035fb0bac99242ed003a9195838dc629b19b2eed7fbd1490d684c8b6d15a6e929802528d5bdace135c250b02f4c1e13a3c3abd2
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:20.10.14~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 161047
+Depends: libc6 (>= 2.34)
+Recommends: docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.14~3-0~ubuntu-jammy_amd64.deb
+Size: 40938942
+MD5sum: 0e4f74d7e62ba693c17ff81c2c2b5169
+SHA1: e26e57728f26ee7b01b1f3a9d6ce2207f524903c
+SHA256: 69ecdef90a84e5bfd464990885d2e8707281aa92cc613f6ac91aba060f0dd72d
+SHA512: 2037a2c3840569cbc77e26232f6f50efc14274171575c9483319d006e258c8cb677ba7c900186cec68aad6fefd3a6e57e293c2b17c585a3abd081c2e4f0068a2
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:20.10.15~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 156386
+Depends: libc6 (>= 2.34)
+Recommends: docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.15~3-0~ubuntu-jammy_amd64.deb
+Size: 40558742
+MD5sum: 0279ce02c07e75f29df71595712dd2e3
+SHA1: 445e81ad86c37d796de64644da4f9b3d6c6df913
+SHA256: bd94405cf9078ca01381180791885051951391cd33358ef764a5822cd408f94e
+SHA512: 8dff2ea75df1379be5cdeb397fddde88d978f35c19f0d5088902e4368e4d637d597332044be9f59f076eeaa36dec61d0b3bb5cc252eb1d59b13ea281184c595d
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:20.10.16~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 156384
+Depends: libc6 (>= 2.34)
+Recommends: docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.16~3-0~ubuntu-jammy_amd64.deb
+Size: 40582674
+MD5sum: 255adc8bdd10e7aa51d8943203adc56f
+SHA1: 9ca38522e64c2d17b9b7a63b6a7bf05e25e914e3
+SHA256: 1ea9361bc0f843109179b6ad655912cbf01d401811aa781b098ee791677abefb
+SHA512: 61b30c064b1293cc82f33feaf9a7953bbd0bbf56aaa9c84159808adab69e6683860eaa7cd3d8f1f2944d2ca8f4f2e689062ffdff11d003cb718f9ae33d77a57e
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:20.10.17~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 156388
+Depends: libc6 (>= 2.34)
+Recommends: docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.17~3-0~ubuntu-jammy_amd64.deb
+Size: 40587450
+MD5sum: 66aed81f86427c5b9d51931b46b3c9cd
+SHA1: ad4667e342d7d90caae28a083e19f44ee4ac4dc1
+SHA256: 5780ef27959abe3c2fce1d1d08b6ce2cc8b5e22a17f53743fea30e43a07b942a
+SHA512: a99c5e180a2ac1c8edbaf307426e8ec1237877b44c7b3e28e4dd52002d42220fe9aa57e620dcf934f3b7f033f7356694d270832878c84f38201603a18c57cfbd
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:20.10.18~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 145606
+Depends: libc6 (>= 2.34)
+Recommends: docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.18~3-0~ubuntu-jammy_amd64.deb
+Size: 41465626
+MD5sum: 9ce90c9bee06eb69a167612ca18ff8c3
+SHA1: 664c4ab754e70029a023ce3e40600ce57c38b289
+SHA256: 4794a24cc4f5de9ac9187a707adfd0b523c841cd631798275281bd7f3ccb1b68
+SHA512: eafd9d3558a18b4607541aed92446dd514c980ef393914f96fc28c060a2e3b3b00b7d88d52bfd5cfb3d5d6cda3d9061a2a31dbd3031132f6b6df760f118f45ad
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:20.10.19~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 145632
+Depends: libc6 (>= 2.34)
+Recommends: docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.19~3-0~ubuntu-jammy_amd64.deb
+Size: 41483950
+MD5sum: 8247d09009df262847cbda5af664c711
+SHA1: dea38126bd12999b4e493e85db67b380ba4ae8ca
+SHA256: d4f581a1c2979659e4d8215a926b6de5e845aa43a26b32acdcad43a21d2a8339
+SHA512: 3f8230ac3e035e27a634e650216bb7eb16e4fdbaaf4ab9fa2388703cb0a61eb36786507801b2d6ec48ecd361b4d69e27a5d3c49d68f50a9bd4ebea4bdefee3b0
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:20.10.20~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 145640
+Depends: libc6 (>= 2.34)
+Recommends: docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.20~3-0~ubuntu-jammy_amd64.deb
+Size: 41473630
+MD5sum: faf595363898a6071c626a282af4155f
+SHA1: c4d5cc34f3521b6eed387c3d0439aa9f71bf81ad
+SHA256: 17fdc34962c887a4eb19e10f507a90714db4df2cd954fd95e1952d784870ef34
+SHA512: e537c313bb0ae3d1d022a80382e64b69946b0dd0d412231b99df957a5f1d61a190ea97232ce6483fdd443aa47f9fefbe36a8a0ca449cbcddce5421855e8e5eff
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:20.10.21~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 145640
+Depends: libc6 (>= 2.34)
+Recommends: docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.21~3-0~ubuntu-jammy_amd64.deb
+Size: 41483778
+MD5sum: 097067be9d9f65cd2df0f4d95cda47e7
+SHA1: 4b2b5fcb5b41a6d940b62dba83452496db27ee73
+SHA256: 3c83c56862d648488f76eb68ec07619d96594c5f658f23e561cfdd7ccef60e9d
+SHA512: e2ec9e9c219b91f58dc339094299e00570ae40f100cfc1627120f737be0a49e81ed79ac113065fcbb83454649ea843304151c77933b83087c1d26e6a5f5ef673
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:20.10.22~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 145613
+Depends: libc6 (>= 2.34)
+Recommends: docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.22~3-0~ubuntu-jammy_amd64.deb
+Size: 41496314
+MD5sum: fe990e37484c29840778dcc17543e49e
+SHA1: 8bcd0452f20206a3e2f0a2005451574d0813aeda
+SHA256: a43950edc5ca85eb05ae97b99028d29bd2f4e8b1c35b415d4ea1a5cef5ed82ec
+SHA512: 76d0505b69bd00b97fdd31f43b1b61fca497b32772364e1c141d3e1e70dc7a6a8848aedf94074a10da933f6c68a76da9fdb4f12a0e4e9335f1098ddfaea2600d
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:20.10.23~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 148608
+Depends: libc6 (>= 2.34)
+Recommends: docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.23~3-0~ubuntu-jammy_amd64.deb
+Size: 42584198
+MD5sum: 5b77b3fc653a041b204c4aedb29cdcb0
+SHA1: c2f5309197f5671f15e15b75df244073c284d157
+SHA256: 6631a18409426b650b2c18e037a310173ae9dccca89da5b2e5f6b3adadd6f8fc
+SHA512: 0859a9a8a11d97462cdf590ade086cc8556a2160f63cc0d8a4dd6d208a60e4fd5c70c1b5d1683295b334f67beb4fbbb752504719c2441f4ae01b9f93cfc04f41
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:20.10.24~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 149983
+Depends: libc6 (>= 2.34)
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.24~3-0~ubuntu-jammy_amd64.deb
+Size: 43194546
+MD5sum: 0b5184162b27b52b86cf6cb55543cafe
+SHA1: 180a8620f50ce188ce568f40e0fb3c1606361b29
+SHA256: 6eb92a6fc8c8eca06809365263c4fab42b1b5b16f788be9b4a9e25b51574b829
+SHA512: 4d0183503f7b04079c385216ad1ab0b2e9fb8fc610006a6e2cc7dfe051f9a2db2830cc20c59ab528825974bd6e55d13d514c137936b5bc8ad42a68751687ba70
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:23.0.0-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 35408
+Depends: libc6 (>= 2.34)
+Recommends: docker-buildx-plugin, docker-compose-plugin, docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_23.0.0-1~ubuntu.22.04~jammy_amd64.deb
+Size: 13163902
+MD5sum: 4388c817b4728907e5058c2974b36247
+SHA1: f809b6526a8799dd9f7adf64e2cb48d6e088648a
+SHA256: 37a10530534f16187bcd43b1e7182845a94d55176f1f62e43a745b4f212564f9
+SHA512: 19faf498820b109bf287d663943156f273cc20f865be46b5f248ca347d6e926b994cc386d878d8f3b345cdaf924adf3abd9e5643cb0bfc5f2214638d8a63af61
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:23.0.1-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 35408
+Depends: libc6 (>= 2.34)
+Recommends: docker-buildx-plugin, docker-compose-plugin, docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_23.0.1-1~ubuntu.22.04~jammy_amd64.deb
+Size: 13166002
+MD5sum: fef4001dcfdfb19e073970c115cad120
+SHA1: 618069988cdd70f2d7554f39e73db0fff758c919
+SHA256: d5e962f7ae182b6acab2a22ac0e4d7399bd5efdc924b591c1e25dcd6cc31a9fb
+SHA512: cce40e1f86d1bfd54e04b943fa4f7364f09a5a0c334946f89901b5b2bc1dfb9e37c0127f82c48ff47871bf70ede52a5ec66dc6d3c7358ca2bdabaf9768704372
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:23.0.2-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 35437
+Depends: libc6 (>= 2.34)
+Recommends: docker-buildx-plugin, docker-compose-plugin, docker-scan-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_23.0.2-1~ubuntu.22.04~jammy_amd64.deb
+Size: 13181250
+MD5sum: 9fd0a4013a50bb6982181f8ca0361359
+SHA1: dc5352240890bba2f68117424f18aa1b13af0138
+SHA256: cec421d307e792b276f6d602b9d1854c3c089c89a37b49a43f80c13309b8ded6
+SHA512: 18d0d4949b69d65c5161858d258caa82a879ec066d9da49a0895553945561a5f71a0d2e289e9e1211f20adebcf25d6e84351ca671e308dbaf0cfe7a9da8d4a2d
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:23.0.3-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 35437
+Depends: libc6 (>= 2.34)
+Recommends: docker-buildx-plugin, docker-compose-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_23.0.3-1~ubuntu.22.04~jammy_amd64.deb
+Size: 13178354
+MD5sum: a913680a6ecfcffc25ee4b877fbfccab
+SHA1: 839bb425c05fdc96862aa3e49f9de48f5e638f42
+SHA256: 0d7373bf0b266133b35c02f567383eeaac0b8405a5e41f9eafb6bd60bf105ba2
+SHA512: 08d2208b1ae237f75a76636af80d6f552213258d216edd2a59ef99fc1b7e33323320197304876f9363eae128803083cb0d28cad7637399ef5410c09bb859f7ee
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:23.0.4-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 35473
+Depends: libc6 (>= 2.34)
+Recommends: docker-buildx-plugin, docker-compose-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_23.0.4-1~ubuntu.22.04~jammy_amd64.deb
+Size: 13193494
+MD5sum: 27ffae4be1d7f8520e49061cc4d03827
+SHA1: bf01cfd6ec2571b334140a63374e42c7eb569c1a
+SHA256: de291b44694d945b0e5695073d27d83faf099daea3b12a77dbd67cedb905ef44
+SHA512: 8ed79785312f5e2d30f32550086001a2cf6b22cda386cbf458b11a9cdaa3b804d7b819f54d7517b05edc48f73561aa6a9be26b20cea9851b15bf99ec8f3e8238
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:23.0.5-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 35474
+Depends: libc6 (>= 2.34)
+Recommends: docker-buildx-plugin, docker-compose-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_23.0.5-1~ubuntu.22.04~jammy_amd64.deb
+Size: 13195070
+MD5sum: 3798d7b753346f13440caa770c5f5ecd
+SHA1: 9b4322c8bc8ef6d641d1cf9b5580b228563f5dab
+SHA256: d3e3a7183243b4d1f0342a360c86085669de9fbfec6c01d4ba61fca0fc659bb4
+SHA512: 54e413bac8a53138407d3e09ed9a06ab7d6770ee587698c5930413565b7afbdb9348a105a0c2a23730a89ccd5b3e30f29950eb10d0a623d4dabe8334a03d44d0
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:23.0.6-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 35474
+Depends: libc6 (>= 2.34)
+Recommends: docker-buildx-plugin, docker-compose-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_23.0.6-1~ubuntu.22.04~jammy_amd64.deb
+Size: 13198590
+MD5sum: 9e26c42e040b4a87f15f32b1a9d29403
+SHA1: 5a3efc0f484c2021d976b97148412b8330ad4f6f
+SHA256: 3dc0edb5f8c3b80418c15cc070243568d02e39b14ce05199d6b9acb8e291118c
+SHA512: 8e680c4d1aa090b3a47d608583824a189d0fe8bd7a8a50cf703e3f048ea8f5948c990ebeb3659c38b104e4d9e8b9d97d0b4a60c529a96ca0c672061ba6ece454
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:24.0.0-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 35668
+Depends: libc6 (>= 2.34)
+Recommends: docker-buildx-plugin, docker-compose-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_24.0.0-1~ubuntu.22.04~jammy_amd64.deb
+Size: 13273698
+MD5sum: 764d54c3d46ce13c37dc28f2b3f18e9e
+SHA1: 1fee635c5a6e6e6a925e203d0d2b94c189716a96
+SHA256: 80bd4e517c34c12173bc3d38d3526733bb70fba374f0dd1f1ab87d711b24671e
+SHA512: 98d3233dc25463ecebf0ebc57ec90803d5b845451919fd96f6eb2345d9acaa909be7aad01362fdce2d2f7ad5919efebf776d65983306091db74b0760d50b85df
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-cli
+Architecture: amd64
+Version: 5:24.0.1-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 35669
+Depends: libc6 (>= 2.34)
+Recommends: docker-buildx-plugin, docker-compose-plugin
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Breaks: docker-ce (<< 5:0)
+Replaces: docker-ce (<< 5:0)
+Filename: dists/jammy/pool/stable/amd64/docker-ce-cli_24.0.1-1~ubuntu.22.04~jammy_amd64.deb
+Size: 13272890
+MD5sum: 885b026ae17c59a47358a7f6c7880910
+SHA1: 68e9d4045fd9ca94c5a54daa4050a5ca5626c24c
+SHA256: ffda886ad5ce7c936e9b40e3fb3c452dc5c22306bef0c185b5751ab485857198
+SHA512: 1ae00b9422d62d4d0b73accebcbd0a63a629d93eb49328444ad720f677abcb9a8239c145e113b99bd53a6afa14d911ce4564e7f00290482daa69764ee22af3b6
+Homepage: https://www.docker.com
+Description: Docker CLI: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:20.10.13~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 20007
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_20.10.13~3-0~ubuntu-jammy_amd64.deb
+Size: 7926316
+MD5sum: 7575907f4aafcc65d1f779f7d9571b30
+SHA1: dc4da2cbf46250a60471248c16561b614549663c
+SHA256: e970f9da124959e3ceb69717037ce488a14e516dd59db9ee3dd9b37d5e5fc011
+SHA512: 062eeef0419345d73cdead7741befe4ac75dcf71dadbdedd69698a35e3f306caaf014541ea709b0bfc761e963a5bcd4698e22d0a59b70ed4b630aaa79e4275d7
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:20.10.14~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 20007
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_20.10.14~3-0~ubuntu-jammy_amd64.deb
+Size: 7925208
+MD5sum: 392ae780a21f1487aff9b6fbc539e11d
+SHA1: 1200798ff4b693a2b0860270f57abb8a1060cb62
+SHA256: dacb5379c4a9ed0c70fba036acf6827ff569e96bdce2740b56a64ed08e5e436e
+SHA512: 6d5c084f76305d3fef0575586f2eda4dad5dd019a6e4e2dddc6fc846cf843d2e34129330b41741be3b6ea1f44b30b0a67227ffcefe3ec90a8c88176fdadfa29d
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:20.10.15~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 19928
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_20.10.15~3-0~ubuntu-jammy_amd64.deb
+Size: 8162492
+MD5sum: 2e635c3128a71591c0ef349d7cad4e31
+SHA1: 22e6b08cd6ad34f725aa49fceb093dde5b6cf23a
+SHA256: e546d591422375d91b5bd0e9d876f83ac73f03bee6dd8ee155bcefb96288d58d
+SHA512: 774d12073c9495ebf6973444a8eae75366f0ba46cbb2cdf848ad1689314b42c8f423bb9ed53097cda1d9e4648d89b467d1a1e1edafb9588c54ff098fd824eaa6
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:20.10.16~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 19928
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_20.10.16~3-0~ubuntu-jammy_amd64.deb
+Size: 8167272
+MD5sum: 967754cd964ec6dbfb6aa6cb7d0052a6
+SHA1: 601a871712eb43d2db0ccb50ac3481fa2ea25698
+SHA256: 7ed7fc32dcd534701e5832bfe72ead6656fc9a8e1c17fe6e31b38f1af63a4fcf
+SHA512: 7b04e90f750b557c29b65bffce39f37aaa111d8d9be18374238643fd7bfde5136f6c9be211aceb4a708b0486c43ef92b544f5c53a5b7161b10651fe9a2c9e41f
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:20.10.17~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 19933
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_20.10.17~3-0~ubuntu-jammy_amd64.deb
+Size: 8162860
+MD5sum: fdb730125d1705c39084772b29722272
+SHA1: 3c8b49779cad93eb135d69a7d65f3ce78896733d
+SHA256: 06334a091f4870a476edb8b0d1bbb7d8cd3cef7aba04f77b1c2a4e4616d19a4b
+SHA512: 535f967bc135ca9210ea500e2efa1f08bf09f5a1c5d97257265756eb79a7b4ecc73b3677debabf8ca11727ecfab7ed8e420ceb29b9657c2a4abb42336f92632f
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:20.10.18~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 18467
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_20.10.18~3-0~ubuntu-jammy_amd64.deb
+Size: 8386132
+MD5sum: b42828c3c47d70933e932b9446d477da
+SHA1: 7085710c5ffdee45b65bdbc0f9e4f6e6d21ae7c2
+SHA256: 5b8300ae6d4f388c3a4b06a85220d53f85fab2635ffd06566ab09eaa5efe7df8
+SHA512: ec01e6868212bf116114f6d54aa00e3a8ce26b3add77ebf3c30f77c502fe5b4c3c3f16e90229e9bb19f04c2bb032b5c96f0c8bfea6bfa28a0730c67aea5ead28
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:20.10.19~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 18472
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_20.10.19~3-0~ubuntu-jammy_amd64.deb
+Size: 8389000
+MD5sum: 4b79f14fe0b286e57f59b9f819a7f7c3
+SHA1: cc57062c1bdac13bc5fddb2f72c542958730e4a6
+SHA256: a101efb2e3e3240a8aeab1ba70e9c2d3883fe3ea6675cbc825394a18554a2f97
+SHA512: 6393d2971d11d50d9e61c46bec629b46862bdd302d1de16649d5088287b3b8d051f17a254183fa5df57e9d7c6e2af52ffab87f30942d88cfff4c2774ee93edb7
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:20.10.20~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 18472
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_20.10.20~3-0~ubuntu-jammy_amd64.deb
+Size: 8388648
+MD5sum: 5fb053e9055d60310e45eb44b93cb1ec
+SHA1: 158562435808a70fbf24b009d058d35e29349c93
+SHA256: 721425c9384c9a1926a8605b138771b1110deb65184d266ec80f70978dc22ce4
+SHA512: 5c2251748c5aa38820d22ca54c9dc17ad0fb791323317081921929f9e482fdddc9808751e84d0c94bca5cb650056695a8c1d6a00837bcbaff161d5e246d20fc6
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:20.10.21~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 18472
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_20.10.21~3-0~ubuntu-jammy_amd64.deb
+Size: 8388596
+MD5sum: 7cd8fd64c9ee9796f6b917c938ac3db1
+SHA1: 733032d1674f13034110a3a62ac04b4b291acb6a
+SHA256: b7c3b373c51184ac42de884dfc594ffdf750ad9e8208c0eaec3a4ee3b0ee7154
+SHA512: 5a7b5c6d78b3fa629b833ca6cc1118729d271e551bc8a9470805ee20d08f0e76ef0f2f9080a23bbe5ea2fd55a8442a862a4041d4333cc142921cd4064bbfef96
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:20.10.22~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 18474
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_20.10.22~3-0~ubuntu-jammy_amd64.deb
+Size: 8389924
+MD5sum: b9ca0b5ccf4a38e79a744612bf79692a
+SHA1: 2a9b7df0ced4fac2a176811f1e4add3825dfff9d
+SHA256: b5b97b1c404f1c1fa0194da6beb91695a84b3aa14a1d7d184a005f099bae5a0b
+SHA512: c862795eb33eb418e49f66ef78452c7411b9f7c20cf5806824870c1d5ce49515c25dc94c1e7c42b98e8750a5b17bc8e14f3f14c80cfb87322fd55ee06745d7b8
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:20.10.23~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 18474
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_20.10.23~3-0~ubuntu-jammy_amd64.deb
+Size: 8390260
+MD5sum: e941ad5e34b3275f7db0ba764cc2e293
+SHA1: 41e72a06a4b6875fd838cf0d035b4b27cd6b9ed4
+SHA256: c19926d5e7c8a4a005485be3e6724a462b3f620b5845b99efd69b807a965a8a8
+SHA512: 703700bd32b9294af9ac2525bdb6b2fe45ad617cd60787303b4113e5b76464e3040a6b7977973c83b8fe0d72e9440625138e145c931cdcd81640e2c1e0aec2af
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:20.10.24~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 19096
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_20.10.24~3-0~ubuntu-jammy_amd64.deb
+Size: 8729584
+MD5sum: 54b0903e4699399c4ad56187d4b727be
+SHA1: 5d7e5689262073ed4c564848597af66fa1c1cb92
+SHA256: 66ce5ea68302dd930500def35525ba757b0e9d1f05c5ac47aed3c80d282730d1
+SHA512: 0ba507463c99b901d6b780676c18b2e7cd8985063d8526d68ccc06777913502006fbcd4a7bd926436dfbe710af86cc5c835c2e140bedfd3796b1c07568e5df30
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:23.0.0-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 19120
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_23.0.0-1~ubuntu.22.04~jammy_amd64.deb
+Size: 8759468
+MD5sum: 6b466709d6096991e7a367111e00d26c
+SHA1: bcfacff02bc3f07cbdec626cbc3e2d6794fc2166
+SHA256: f6394af7df6001fc3c06a92ef3b04016499c135861d89786acf75ff7deb3b355
+SHA512: ee0cc25a5897bd68d6757153e2422bfa370ed675c272117e9762962f9137387c88fa05948dff0109fb7bae8fb2fc75f91cb41ca73a60921219cd50cf0a18dd2c
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:23.0.1-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 19120
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_23.0.1-1~ubuntu.22.04~jammy_amd64.deb
+Size: 8759796
+MD5sum: 6939bbfdf44e58313864300cb6239329
+SHA1: f49dad3e4d15a02f2ae8f97add7751ef22d71455
+SHA256: 8ce204d872cb6eb57ff48c77681fc7d6913f594da5e04efb77ea8d6db39dc50c
+SHA512: fa0d2903e470f14955d81ae89732209cd4c2500758cad2cc8094b6b7532a91346d8530b2efa24ac6b60150a29ed969b4fe9df430aa333194235db5710de75a0f
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:23.0.2-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 19146
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_23.0.2-1~ubuntu.22.04~jammy_amd64.deb
+Size: 8773008
+MD5sum: 9a246be4d773a01a07c5f8a98ce584cb
+SHA1: 15678f6790194ea4448add17f9d6132cee6ae344
+SHA256: 51330edf27e88cc5a23d60f02e5b7d668f413381672e81d7221c838f0440c0de
+SHA512: 51fe566db9fb3b0629dac8a2c41db5ca3b4a5cc7b5a66d3c1ef004af8579acbaf5187e09d0c48731100372e329f938ab4fe8a0de018dd18d5c6417b0343ae2be
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:23.0.3-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 19146
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_23.0.3-1~ubuntu.22.04~jammy_amd64.deb
+Size: 8772484
+MD5sum: 1cb1067cde19f6885dc0be0764fbd0c0
+SHA1: a77e517dd46505433ccf6e9efab62cd328ade71f
+SHA256: 70e20e986da7d2f972dd7c1137d4d5beeb20168181e57c9f3a509816e6911aab
+SHA512: 7f33636fc5c4f77b9c5afe2de7b7f3912cca1a6d89ca49ab38df72738bad340bb6b5ab802093650f92e39f7198d3a24634810cdaf23ff52283ad910f661963a3
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:23.0.4-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 19150
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_23.0.4-1~ubuntu.22.04~jammy_amd64.deb
+Size: 8773780
+MD5sum: b91efb270a1fbf46ea0fbda696cc7388
+SHA1: cf6edd638b6cb05f9abe33f3ee80dbd5acb568e9
+SHA256: 31cc5029dd0bf13166ad7683635437d738343e3b605831b8ab65843fae553035
+SHA512: 734fd6af7605435a078d48988f2bac1eeaf415ef2bd472b6400f40dd05b04c8ff7098a9217aebefc8550ea888a2dd3879e1b3f7004371825342381455f96a6a7
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:23.0.5-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 19150
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_23.0.5-1~ubuntu.22.04~jammy_amd64.deb
+Size: 8774176
+MD5sum: 5c6bcad0259093100f890612a1d73795
+SHA1: 5b3c2495b83b07b83d221c22d2a0b8852a50fe19
+SHA256: 263e9a108e2ea4f446f2b50b8c32bbc7144be984c20ec9e8a0964b68434a6af7
+SHA512: 3f36f12832dca29bf02e21bebd5127ac3121969f8ad45e62899bd8136bbcd6b6aeb265d3b1f17b21df92bce1764848065c8fd57a029239c9899144bb242c4384
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:23.0.6-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 19155
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_23.0.6-1~ubuntu.22.04~jammy_amd64.deb
+Size: 8775324
+MD5sum: 4f4f69809d7896d9d6a5ce9dd7b55769
+SHA1: f4b90a12b18ee20c5258de40c2f045e53983799c
+SHA256: a7cb8f1ac84b0c238ba1d33e86a0e93c8ff8234d4a4a0ff8b5f1db299696b10f
+SHA512: 688db6effa91de75d2143a3bf638570741256a461bc8b96b247b8af2fb939d9e7d079d17c9221f393d42e4304e34603de994b5ee1afbeb86f35adb8d1e25633a
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:24.0.0-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 19621
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_24.0.0-1~ubuntu.22.04~jammy_amd64.deb
+Size: 9011020
+MD5sum: 40ff1526c2f2cb8d506fb3d26b129331
+SHA1: 7e70c377deca1b1932c0f79deb65ea8a0c447cfc
+SHA256: 3f62557e1df4e152bbf186e1186e901c10d283543603ef54306b936094bc568f
+SHA512: 73f8cfef1aa02f911ca8914ea73c6e77337a8829ac90253e824374607743b150085e057efd6146bb20103de75c175f46a923c27f5fd693f777b42d1b775838af
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce-rootless-extras
+Architecture: amd64
+Version: 5:24.0.1-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce
+Maintainer: Docker <support@docker.com>
+Installed-Size: 19621
+Depends: dbus-user-session, libc6 (>= 2.34)
+Recommends: slirp4netns (>= 0.4.0)
+Conflicts: rootlesskit
+Breaks: rootlesskit
+Replaces: rootlesskit
+Enhances: docker-ce
+Filename: dists/jammy/pool/stable/amd64/docker-ce-rootless-extras_24.0.1-1~ubuntu.22.04~jammy_amd64.deb
+Size: 9008400
+MD5sum: df834c771ca46f31fc3234e0ad0ebc94
+SHA1: 6618d35acc647c8511cb75515a5c8a9f06ac99ba
+SHA256: cd7f518acfc7b78fe2a100e08ee24646cfbffeb8d34c0f90aef9e0ec4b75490b
+SHA512: 5d91c84dc7ab16a15f1a1eea7247895685ff8b417e7538a98a4b2062368dd29dd2c4a261df24cc5a300803c39261bd10cee90d7f5d98b74de945b22725292454
+Homepage: https://docs.docker.com/engine/security/rootless/
+Description: Rootless support for Docker.
+  Use dockerd-rootless.sh to run the daemon.
+  Use dockerd-rootless-setuptool.sh to setup systemd for dockerd-rootless.sh .
+  This package contains RootlessKit, but does not contain VPNKit.
+  Either VPNKit or slirp4netns (>= 0.4.0) needs to be installed separately.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:20.10.13~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 96136
+Depends: containerd.io (>= 1.4.1), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_20.10.13~3-0~ubuntu-jammy_amd64.deb
+Size: 20990034
+MD5sum: 6c0009f2f3cecfddaf9bc400c129df12
+SHA1: 76e5499baf239ca1c98668dd67354a68b7424a85
+SHA256: eaf0e3497bf27e0b416b1b543878afafb1b95b3d01ed6d5c10cf6a9dec811b54
+SHA512: 321c0ee42bc49951af8860cdd7ae820f51cdf6a876e2880e7e31700c2401c2f03b37e45064e513a32513338214871f96dcf96a40133cb178b4e82a843c9cba00
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:20.10.14~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 96136
+Depends: containerd.io (>= 1.4.1), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_20.10.14~3-0~ubuntu-jammy_amd64.deb
+Size: 20951550
+MD5sum: 10b38b272c8273f3dda37057983582d2
+SHA1: 13ecd1b59a250f443413b37be4d473ae6a3925b4
+SHA256: 940db9be2f5615a8958dfdc811d3776ddaf9e175523b7947fd40b2be4c40b542
+SHA512: c3778730bb6f7121f1020532dfc09da26eb68a5bbb25e7559be2024243b23c73e9bb978cf4e767f4c17a7e946fbad5295f764547479e86d2c67f441c3d60bff1
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:20.10.15~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 97294
+Depends: containerd.io (>= 1.4.1), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_20.10.15~3-0~ubuntu-jammy_amd64.deb
+Size: 20792906
+MD5sum: 42e5eaa9f2148c1bbc572d6f8ac54e5f
+SHA1: 5ce7508bb9d478dd9fe8ed9869e8ab0eed0355d9
+SHA256: 2fd195fd4b4a43cfab89f9dc011801fab967c662b852215dd101702e5b01a91a
+SHA512: ffc12fd1062f6f88f530f2728f333958e5fe12e483c3b2b30ab1dc799c70b7c6e1a0bff176eed1ed2c1280f0e7288b97565d2a1fece2976857421f6c7ca52af9
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:20.10.16~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 98103
+Depends: containerd.io (>= 1.4.1), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_20.10.16~3-0~ubuntu-jammy_amd64.deb
+Size: 21008834
+MD5sum: 3b74382b86d3b54b2cc44f278f0b8edf
+SHA1: bd1fe4ea1dd45a5dcf2968cc2e1ef85ff1483f4f
+SHA256: a522d15485e531b4d06ca905ecde998705c456c8f94f57536622600d474b4c0a
+SHA512: cdd11d4200ea03a401177d9cc7de9c1347ba5fb8bebd349f389f1d0a3bd03a356a8f15592c16e274d3f79fcff8c80040eee747b1ae16b142606b2f3ab7dcbefa
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:20.10.17~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 98111
+Depends: containerd.io (>= 1.4.1), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_20.10.17~3-0~ubuntu-jammy_amd64.deb
+Size: 21009786
+MD5sum: 68620ea9f3d5f08ba0bbbee9b26a277d
+SHA1: 957463f22111f70f08fd0ff7ebe81526bed87a30
+SHA256: 75b856c2c3fd3681aca2e7cb2c48652fa27619b6aa6bebad1f7f286e6cbdf9c1
+SHA512: 09589337f031555a4e56d0a3c45326a1eb1cd62a26235bcfd2775957caeac43d0f0b3699504466d77dfba76787f8f1513460041e9530c575a95947a1d50a95b7
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:20.10.18~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 86050
+Depends: containerd.io (>= 1.4.1), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_20.10.18~3-0~ubuntu-jammy_amd64.deb
+Size: 20397306
+MD5sum: 4ee0b26e2b6d81d19887ed34111ba0b4
+SHA1: ae3f7422aed45d05c15bf4f1c0eb48ec90aa7d0a
+SHA256: bb7dacec2e8686406d0eb289746bed194ff19580738412cf2cc5936e82823a4e
+SHA512: d0c00005f12e96c10e49e05f3df2cc018ed86bbd9d0c8a2abc3594f4f5059704aa82ebf29dd83ec8104271499c0c5064898cbf6614b8c2b9f48d542f3889d700
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:20.10.19~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 86360
+Depends: containerd.io (>= 1.4.1), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_20.10.19~3-0~ubuntu-jammy_amd64.deb
+Size: 20466782
+MD5sum: 560b1532ca42c0c116769e30a26787bc
+SHA1: 37d972138f8cf15c95631e1d37e4be30adf542a5
+SHA256: bfe066be336ac5b63a17e819370e874d944ef6b6d8a17c02c18f3e7107316800
+SHA512: 36daad38840de67edecdf372eac976888599501da2610e7099af16203b4076a0a7d28bc0a9076e99aaf44a0f25a2894acc074679e4b7eb66118ce6458bd9dafd
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:20.10.20~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 86378
+Depends: containerd.io (>= 1.4.1), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_20.10.20~3-0~ubuntu-jammy_amd64.deb
+Size: 20479218
+MD5sum: d6eaa09d7bd1f2f8fc349266096ca898
+SHA1: 679128bf089d71cd97a9fb3fbc6e23f9a1773fc4
+SHA256: d6498064e81c05950afa5119b042a4be66d09eddf4a3881e36b1e1fe7596cfea
+SHA512: 53ac1fac7e56a32808688e6947b1c12c46efec35265f89f8b1907e9fed8881db0597c236ccfe0f616a02bb964b3849a118443f514abbf2039652e95d315c5b00
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:20.10.21~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 86393
+Depends: containerd.io (>= 1.4.1), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_20.10.21~3-0~ubuntu-jammy_amd64.deb
+Size: 20470246
+MD5sum: fe855aa8e891113e83d982eeee3bcb41
+SHA1: 92c3461ab2f034925302f4eafbf63cbb5d7ee675
+SHA256: 86f0f5ff7ccaec04a1fa47482d953e52195e4dca9807631e37b5aa13232e991e
+SHA512: 21ab28c2a6d7a39d8683a2239b6700bcc2e75258ff30186b59e88e82fd0cfced18235d0d5316d20c2e498e0be783946c07071be78b940bf0b0ce9a45d73adc5d
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:20.10.22~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 86399
+Depends: containerd.io (>= 1.4.1), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_20.10.22~3-0~ubuntu-jammy_amd64.deb
+Size: 20466226
+MD5sum: b3eb3bd42e0ea3cbb18d796be7ed7cd8
+SHA1: 6b2d2648511813a0f3e89534f3aed49055ba0b98
+SHA256: 7cda42b206d8aa1ea8a19947a706254fa0fef850c28c9aca30790dd2e23aadcf
+SHA512: 186c0363feba9f3cce9e9e493f11e412920337bda012d8178caee9641e3415f13455aa540569d3c39a5dfff803e730dd79ec3c4bb61abc9d52ae1bfbe804000e
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:20.10.23~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 86394
+Depends: containerd.io (>= 1.4.1), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_20.10.23~3-0~ubuntu-jammy_amd64.deb
+Size: 20456814
+MD5sum: 07e002ef6c0d6001f17baa5faaabcb07
+SHA1: f4d81107f782d127c938a0320799e6237e57957c
+SHA256: 4fefcaefd28c4c73e61c8cc42da7632bc2592bd59e9e74cd73ac843cb758c05f
+SHA512: 762f4ba6b555912b4196d59fa3515ab445a077eb9475f0f20923de4c869cf455e1bfac7ed30032cfaa9067fbaf7773429ab5de1a73826c247a9e6c01daaf7eee
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:20.10.24~3-0~ubuntu-jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 87101
+Depends: containerd.io (>= 1.4.1), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_20.10.24~3-0~ubuntu-jammy_amd64.deb
+Size: 20655542
+MD5sum: 1b196cfb6d12f5a483022e720617ec30
+SHA1: fb7292945ee1dda0891e3ef72dbdb8f23a58e770
+SHA256: 09259650410349ad89e616b364e48c462d2403214690a51b0f0a67c1c8d1ab32
+SHA512: a76eaae1b3ee3d5fb20b227575fbea9ae88f2f3e2be5bdfb8a67312be88c3c7231a1db4a7799ca84cae6d89bf4750fb4153e92db62075aca036f1d36a935e520
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:23.0.0-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 96431
+Depends: containerd.io (>= 1.6.4), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_23.0.0-1~ubuntu.22.04~jammy_amd64.deb
+Size: 21975470
+MD5sum: beaa2f1c3b662889f64a7e2e2742eb17
+SHA1: 9a81e70c3d1cb3d4e3277dc3d6b068face98629a
+SHA256: 7b254808c73c1ffafb6e89e62f642999ed64a0bae18179d8f1f09420d1ba4c68
+SHA512: 6536ff82177baaca3606288c05f33ffaf14e04f22b052379ddcd0b1df822dd89d14cfbd5459d1ad5cb30cee47d4488645d5c288d487677c396714df616a4ed74
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:23.0.1-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 96446
+Depends: containerd.io (>= 1.6.4), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_23.0.1-1~ubuntu.22.04~jammy_amd64.deb
+Size: 21975254
+MD5sum: 0a349b307568c90b3af3fcf8a2a9497e
+SHA1: dbd9fda62b331a58df12218cbf1f49118c2342d2
+SHA256: 5ba6ab2c8739b5146e02711d35797120e7d0624b1fc8c1cb42186c250763e9b3
+SHA512: db0520177a6737cd70d3d0203545598ba609bf2c8f6eed302147a952fc013b9bb0a14ff86e0bfd7ef2c2733a80e4160a1aa4c3999d8b36e46ded7e1c3c8e7f36
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:23.0.2-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 96524
+Depends: containerd.io (>= 1.6.4), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_23.0.2-1~ubuntu.22.04~jammy_amd64.deb
+Size: 22008258
+MD5sum: 946d17ab6b4793a02e4ed59a8f8b954a
+SHA1: 179ede4e78c6fcd7426bf06e7d20a32a69dfec4f
+SHA256: a72da718684068a45e5438552c39c75db49dcb9ff6c5af5dd07796ddcf78081c
+SHA512: 44bd0a102b71dc8a599e82d77ccbb7d966c4e9ff526a72592e1782b7b4aa4dcb5eacb18204460f2bbb4c3cf224f0f01c3bf105868c277fa6ec24d72905fa969a
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:23.0.3-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 96534
+Depends: containerd.io (>= 1.6.4), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_23.0.3-1~ubuntu.22.04~jammy_amd64.deb
+Size: 21983458
+MD5sum: 9e171fc3faa2c7a881a5831406d4ad80
+SHA1: 331771efecd5d5b61d8ae142081995ee54930d10
+SHA256: fed6ac089509f3f93aeaf45096c7f025dd40b5ecba855b935b4d347eafd2bdbe
+SHA512: a40129341a448d524a842c47837c147cb8f7dd27e89b273882c4bfed2a45cd15d90f91476977209567c0ce0620f77b087eaa42e9a1b7a492c3b82e6628765e16
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:23.0.4-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 96559
+Depends: containerd.io (>= 1.6.4), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_23.0.4-1~ubuntu.22.04~jammy_amd64.deb
+Size: 22020638
+MD5sum: f1aa19c81c40d2167522746e3f03f07d
+SHA1: c7041fc837dfb6725fb2e8e46f3fbfb09b31caf1
+SHA256: 868d9428bc050893d81df482afaa2f7745105b0ecbf0d6d4a3aff3f9af0acb81
+SHA512: cc7dbba04b2a13fffbaeaded71bce6b2cd1ad4653c0f6ed5cb13fb123a15fad5b2fea24ce2f3844bd70783e13fadb51e9780d90943f26568c05561e1ba0d5874
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:23.0.5-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 96563
+Depends: containerd.io (>= 1.6.4), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_23.0.5-1~ubuntu.22.04~jammy_amd64.deb
+Size: 22028090
+MD5sum: 98b570368bea593dcd36a5875c241c2c
+SHA1: 8d1e5715a19014e26aef6fe887ad8262ff792b0c
+SHA256: e0b041869e017031703b1e0ce17929bc06f15521537d975210a64efeae22e74b
+SHA512: e0c4a6dcdb60e09187131cd139a18152f77aab2163dbf38729ce221f3ff46a838f062ef5ec5dd739d085e7d8f37538591c726a1a57ee733c8161c6a54cddda9a
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:23.0.6-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 96583
+Depends: containerd.io (>= 1.6.4), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_23.0.6-1~ubuntu.22.04~jammy_amd64.deb
+Size: 21969338
+MD5sum: 23e99481965520fa6275cae2538a5f6f
+SHA1: 74dcc9ad52e4700a9d687adbaf609631531aa333
+SHA256: fca484896292b9a9c45b95eef46a82e5cf245f8e8e2dcd238a460c38b3becc70
+SHA512: ae6ab5f656ace8a545a5a2e30081a7a6b40152209ffbd0a27d95a917b5cd448e78bfd18d5f18473bac844269de607a763d5ba5171173ad5b2c7976ba3dd895af
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:24.0.0-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 100480
+Depends: containerd.io (>= 1.6.4), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_24.0.0-1~ubuntu.22.04~jammy_amd64.deb
+Size: 22877578
+MD5sum: 929fa321ef45f3dc27dffd936a21365e
+SHA1: a8675e6f5aa232d63cf54323e6f166490340ca5f
+SHA256: fd19f34d83e674895bb4a7dadea08f86bf451c185ec01f6cef6f720c79e1b268
+SHA512: 4fc1523d01348bbe374f0186be2e7fed000dd3b9901b86ba1a416494c476f0bd8c7adf304f063a0551b58231267c9e4e9a20e0e2dbfad882fe309db179c1458e
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-ce
+Architecture: amd64
+Version: 5:24.0.1-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Maintainer: Docker <support@docker.com>
+Installed-Size: 100485
+Depends: containerd.io (>= 1.6.4), docker-ce-cli, iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), libsystemd0
+Recommends: apparmor, ca-certificates, docker-ce-rootless-extras, git, libltdl7, pigz, procps, xz-utils
+Suggests: aufs-tools, cgroupfs-mount | cgroup-lite
+Conflicts: docker (<< 1.5~), docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Replaces: docker-engine
+Filename: dists/jammy/pool/stable/amd64/docker-ce_24.0.1-1~ubuntu.22.04~jammy_amd64.deb
+Size: 22834550
+MD5sum: c0b6aa7363867ab5276b92d0c27578e2
+SHA1: b9ead1ad0a66a71a67a8c9cd541a87861d1e6dbb
+SHA256: 7b23f14d9de0f9d8ef4d2defa1557d04c49eafc9e0b2151c744a0fb383d081ba
+SHA512: 4605fb7e25344fbf39ef08e29699ff8c150b9531bdeb5bffa22f5fb9c63a8baaaeae492b30df176171351a50e400cbd8eb085d7f03898d3c0282f8965cd74f0c
+Homepage: https://www.docker.com
+Description: Docker: the open-source application container engine
+ Docker is a product for you to build, ship and run any application as a
+ lightweight container
+ .
+ Docker containers are both hardware-agnostic and platform-agnostic. This means
+ they can run anywhere, from your laptop to the largest cloud compute instance and
+ everything in between - and they don't require you to use a particular
+ language, framework or packaging system. That makes them great building blocks
+ for deploying and scaling web apps, databases, and backend services without
+ depending on a particular stack or provider.
+
+Package: docker-compose-plugin
+Architecture: amd64
+Version: 2.10.2~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:20.10.18~3-0~ubuntu-jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 25130
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-compose-plugin_2.10.2~ubuntu-jammy_amd64.deb
+Size: 6693020
+MD5sum: 4de77f8fec7f57b9c96338905e432a50
+SHA1: 858bdb3285c6e056a9f5a80432bf882a8a6d94b9
+SHA256: a8fa4da7d0395a4ed5b8c4de5a642fb54c37c9f6b33333b8a41d95515cef6a51
+SHA512: 4df574f027838b04445f1bdbb59f9485989a4f3a4e7dafe5f3ab4dcc48d24b5c05e415c67e29b4ff18d57c72115fe70d41cb33e20dd8283a8372d70db081f5a8
+Homepage: https://github.com/docker/compose
+Description: Docker Compose (V2) plugin for the Docker CLI.
+ .
+ This plugin provides the 'docker compose' subcommand.
+ .
+ The binary can also be run standalone as a direct replacement for
+ Docker Compose V1 ('docker-compose').
+
+Package: docker-compose-plugin
+Architecture: amd64
+Version: 2.11.2~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:20.10.19~3-0~ubuntu-jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 43210
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-compose-plugin_2.11.2~ubuntu-jammy_amd64.deb
+Size: 9477940
+MD5sum: f2f892192b1746e43001fa7131f13447
+SHA1: b367c36c818f87047481619f839f07d039ff6e3f
+SHA256: 76b12c97988f84b4bdb2da53b646f86cf9bb5d4bea12bfcced2f62ca74f0aa6a
+SHA512: 06f6accde86f937c71698850f18f46315ca6b0fa6b7fa59792211497f0de0866ba520beea70003b90221bd10fe07158cad8d601ecd3b0d3b7244cb475a3b2251
+Homepage: https://github.com/docker/compose
+Description: Docker Compose (V2) plugin for the Docker CLI.
+ .
+ This plugin provides the 'docker compose' subcommand.
+ .
+ The binary can also be run standalone as a direct replacement for
+ Docker Compose V1 ('docker-compose').
+
+Package: docker-compose-plugin
+Architecture: amd64
+Version: 2.12.0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:20.10.20~3-0~ubuntu-jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 43606
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-compose-plugin_2.12.0~ubuntu-jammy_amd64.deb
+Size: 9563484
+MD5sum: becde21aa2ddb3b36bfe02b89591f021
+SHA1: c80ac6b4593016ef0c49b2d67f4779769ad284f7
+SHA256: 8188611ca5697eee9b118b8a3fba7fb4f26055848bd89951fe4eac04a65c0c80
+SHA512: c66183c8e7bcdf9801cee2a4982bfe93453019c77b4a4e9cd2fe227f54d88093c305dd0387c51d50ed8a034e65a0b5b6f8defc76a474b6c3993324253b0c2dd7
+Homepage: https://github.com/docker/compose
+Description: Docker Compose (V2) plugin for the Docker CLI.
+ .
+ This plugin provides the 'docker compose' subcommand.
+ .
+ The binary can also be run standalone as a direct replacement for
+ Docker Compose V1 ('docker-compose').
+
+Package: docker-compose-plugin
+Architecture: amd64
+Version: 2.12.2~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:20.10.21~3-0~ubuntu-jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 43622
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-compose-plugin_2.12.2~ubuntu-jammy_amd64.deb
+Size: 9565516
+MD5sum: 9a275a31485e8c7cbf81715deb47039f
+SHA1: 5e5a94de47987ee79a53c92300928035307a01e9
+SHA256: bb059e1576112ce2a94e722fa6d066e484ea83fa4a85ad53e4389505719a5bd7
+SHA512: 4d07cb0290bb37db7fc9d0363fba342e29991199d14239036865150bb30d8d744cb0d82c568cb6dffa04314983482fcd97ee7f564cb07e7e765e1c5239533033
+Homepage: https://github.com/docker/compose
+Description: Docker Compose (V2) plugin for the Docker CLI.
+ .
+ This plugin provides the 'docker compose' subcommand.
+ .
+ The binary can also be run standalone as a direct replacement for
+ Docker Compose V1 ('docker-compose').
+
+Package: docker-compose-plugin
+Architecture: amd64
+Version: 2.14.1~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:20.10.22~3-0~ubuntu-jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 43586
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-compose-plugin_2.14.1~ubuntu-jammy_amd64.deb
+Size: 9561428
+MD5sum: 761c1c0f432fc961487c65a073bb4353
+SHA1: 47da3943095b1cfe930eabe3bbb0ae80e22c4f66
+SHA256: 1755d85c6cd648ba08717463734e1d0ea52ee1fd3175c7c55ad6e5227f337cb6
+SHA512: 1676c4ce692612c5e85a36374522903bd05bfd5983bfa6cf654af43632e8b5aeb32de4aa26ee1af27a8014352aaac829f909cb7c95a180ef92a20f36f8146501
+Homepage: https://github.com/docker/compose
+Description: Docker Compose (V2) plugin for the Docker CLI.
+ .
+ This plugin provides the 'docker compose' subcommand.
+ .
+ The binary can also be run standalone as a direct replacement for
+ Docker Compose V1 ('docker-compose').
+
+Package: docker-compose-plugin
+Architecture: amd64
+Version: 2.15.1-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:20.10.23~3-0~ubuntu-jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 43622
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-compose-plugin_2.15.1-1~ubuntu.22.04~jammy_amd64.deb
+Size: 9569788
+MD5sum: da292b77796c531d3a56210649640486
+SHA1: 58d60ba8fbf5e4ec9ac6b001ec3fc4f4f9fed088
+SHA256: bff1b5ff765cd0b5f0444cd592eb0fd61d65750507185474336644085403fd88
+SHA512: 0243d5bdc7cdb1c827664ce20b60027cd05f058a43c6f5d4ce5b1165cc9ffc70ab186f837b89d7fa1610f474af10fc289f5730e8955fc4c83e0280619124b421
+Homepage: https://github.com/docker/compose
+Description: Docker Compose (V2) plugin for the Docker CLI.
+ .
+ This plugin provides the 'docker compose' subcommand.
+ .
+ The binary can also be run standalone as a direct replacement for
+ Docker Compose V1 ('docker-compose').
+
+Package: docker-compose-plugin
+Architecture: amd64
+Version: 2.16.0-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:23.0.1-1~ubuntu.22.04~jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 46214
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-compose-plugin_2.16.0-1~ubuntu.22.04~jammy_amd64.deb
+Size: 10164462
+MD5sum: 33d4ec6b6ece50bce291d229154cbd4e
+SHA1: d90124c3b19316a951d8e8346d8568392d59aeba
+SHA256: cd13fdf990f0f3e7867d27db604cbea9b5c08034a12a5b2d8e5af311497dfb20
+SHA512: 30b757100417ee3ef402ad7da3062cdf50843ea209dfb2bd4a070b784e99ebdccdd94b8c85ab20c451915c3619671703286a41d2892aa8566cf044e3db9b3aa9
+Homepage: https://github.com/docker/compose
+Description: Docker Compose (V2) plugin for the Docker CLI.
+ .
+ This plugin provides the 'docker compose' subcommand.
+ .
+ The binary can also be run standalone as a direct replacement for
+ Docker Compose V1 ('docker-compose').
+
+Package: docker-compose-plugin
+Architecture: amd64
+Version: 2.17.2-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:23.0.2-1~ubuntu.22.04~jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 52688
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-compose-plugin_2.17.2-1~ubuntu.22.04~jammy_amd64.deb
+Size: 10858486
+MD5sum: 5747b120df5b0c1d3c500a12bc81d1c6
+SHA1: 449f2472770bdbcbf61062913430f798c9160ae2
+SHA256: 1db0b26104b3e21e850535cabd4d1760f1b69844164bdca325172b5078d33e43
+SHA512: 13728cf7d3f7ba3fb552723e77311442b41fe7cd923e1eb5cac0e4c73d5581a629fd79a145b63591250b6193226ee20cf6268958b6df7705bec22d423c429a66
+Homepage: https://github.com/docker/compose
+Description: Docker Compose (V2) plugin for the Docker CLI.
+ .
+ This plugin provides the 'docker compose' subcommand.
+ .
+ The binary can also be run standalone as a direct replacement for
+ Docker Compose V1 ('docker-compose').
+
+Package: docker-compose-plugin
+Architecture: amd64
+Version: 2.17.3-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:23.0.5-1~ubuntu.22.04~jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 52705
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-compose-plugin_2.17.3-1~ubuntu.22.04~jammy_amd64.deb
+Size: 10867750
+MD5sum: a9135c82bc99e9f233dfb01b3b426a6b
+SHA1: 1d6ec27a426974de58f37948a16c025d5f795a89
+SHA256: 3d151313b0b549eb5a02dc300f73354bf10be6b34d5f6a6a2d6c5ce27cb0ef9d
+SHA512: 3ebf4fab267aaa1cc4d5b7c07fdcbf8df68387d4e2fc24e1d16a76b7e7f98ed1ecfcc8b57496a87f6820ba917346220bc0c9a2044c7163d03f181bf1f47005ff
+Homepage: https://github.com/docker/compose
+Description: Docker Compose (V2) plugin for the Docker CLI.
+ .
+ This plugin provides the 'docker compose' subcommand.
+ .
+ The binary can also be run standalone as a direct replacement for
+ Docker Compose V1 ('docker-compose').
+
+Package: docker-compose-plugin
+Architecture: amd64
+Version: 2.18.1-1~ubuntu.22.04~jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:24.0.1-1~ubuntu.22.04~jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 53362
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-compose-plugin_2.18.1-1~ubuntu.22.04~jammy_amd64.deb
+Size: 10937814
+MD5sum: 683cf84d5837625e0cc5ccccd50f75ea
+SHA1: 19b6536fd1eab95d2c1cfe8c391d41cb88db50bc
+SHA256: b7792828f4eb58590cece8b0c3f90af2ca9925355616e17f08fba794589ca051
+SHA512: e19ad3b144d6eef89b3e1b2590f510564b952aa478dee39cb81525e05706ff0487e589ef481ab96f8db6ef9b774556d1e75ca551544f85815d85f00d069357c0
+Homepage: https://github.com/docker/compose
+Description: Docker Compose (V2) plugin for the Docker CLI.
+ .
+ This plugin provides the 'docker compose' subcommand.
+ .
+ The binary can also be run standalone as a direct replacement for
+ Docker Compose V1 ('docker-compose').
+
+Package: docker-compose-plugin
+Architecture: amd64
+Version: 2.3.3~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:20.10.13~3-0~ubuntu-jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 26798
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-compose-plugin_2.3.3~ubuntu-jammy_amd64.deb
+Size: 6618892
+MD5sum: 0274855f64eb2c7369d2e6b75e939bf7
+SHA1: 99ede1bbef62559a39e5b518608c7c77c293e3b4
+SHA256: fbd981128cfe6f6e37066be260b64216628892983fd555e34db12e3675519e43
+SHA512: d7e84b1c80411f8585db0cc00176cdb1d3d559819b02efe094de8265b10ed5f5fdefbb1d9451220cfba6eacb60867ccaee43940e366c02d1862d4f55542735ec
+Homepage: https://github.com/docker/compose
+Description: Docker Compose (V2) plugin for the Docker CLI.
+ .
+ This plugin provides the 'docker compose' subcommand.
+ .
+ The binary can also be run standalone as a direct replacement for
+ Docker Compose V1 ('docker-compose').
+
+Package: docker-compose-plugin
+Architecture: amd64
+Version: 2.5.0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:20.10.15~3-0~ubuntu-jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 25914
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-compose-plugin_2.5.0~ubuntu-jammy_amd64.deb
+Size: 6555984
+MD5sum: 4802d02431961119a0cc27affaf00873
+SHA1: 320c565bef89c0cc8e95c646b951bc6a0c94785b
+SHA256: b34fab8d4ba4fbeee3a9fc9d4d30c6a82f1f199b54fa7881425fd8704c7f1002
+SHA512: 2cd8884ade16a8c957193f68022395f0ba6565c8330ce7b8bddf8458d9153735e19993344501e8e94712dcd66021baa0e52402d20bc85dcde30e1df7567213ad
+Homepage: https://github.com/docker/compose
+Description: Docker Compose (V2) plugin for the Docker CLI.
+ .
+ This plugin provides the 'docker compose' subcommand.
+ .
+ The binary can also be run standalone as a direct replacement for
+ Docker Compose V1 ('docker-compose').
+
+Package: docker-compose-plugin
+Architecture: amd64
+Version: 2.6.0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:20.10.17~3-0~ubuntu-jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 25926
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-compose-plugin_2.6.0~ubuntu-jammy_amd64.deb
+Size: 6563492
+MD5sum: dc85911168d1932b2515930705d2e7af
+SHA1: ea7b47794317f960087335bb52199341f12e499e
+SHA256: 055630c097385f6e0a889a01bb6ee14c6395fb43945d80cae36f7648ed556a07
+SHA512: f7c5aa6006f36cf5c0d357d8c371d5c43f4f16ec024ff374887522365deafbeacf5f9ce72b43db352a7b950d5567be12df4f3ae5488498f33a0d92adda0845b0
+Homepage: https://github.com/docker/compose
+Description: Docker Compose (V2) plugin for the Docker CLI.
+ .
+ This plugin provides the 'docker compose' subcommand.
+ .
+ The binary can also be run standalone as a direct replacement for
+ Docker Compose V1 ('docker-compose').
+
+Package: docker-scan-plugin
+Architecture: amd64
+Version: 0.17.0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:20.10.13~3-0~ubuntu-jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 12954
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-scan-plugin_0.17.0~ubuntu-jammy_amd64.deb
+Size: 3520744
+MD5sum: b884dad2c3d322b57ff0adff72b17df9
+SHA1: 749ebf92655a7bee3b14fb4999685cfcee384a4e
+SHA256: f218230962a7f04c3a47407200c1ad315455b85622bdeaa0960522fe393813f2
+SHA512: 29a1c6d2f4d70df65aea91f9bafeda59f2da56584149b8f47ca232863029f771a6afc93fd78b9bf0fe0d28a2084b7dacad06d2c4ebe820299fe1c344ba5da42f
+Homepage: https://github.com/docker/scan-cli-plugin
+Description: Docker scan cli plugin.
+
+Package: docker-scan-plugin
+Architecture: amd64
+Version: 0.21.0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:20.10.21~3-0~ubuntu-jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 12326
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-scan-plugin_0.21.0~ubuntu-jammy_amd64.deb
+Size: 3621672
+MD5sum: f977f1a4efe1d5eadc5c64db43703d77
+SHA1: 29262be148011b729973c6e6b505b8b2a01269fe
+SHA256: 6c79189a700349a9864d86276073a3962a92628f94a2a6a099a89c1f0bc08117
+SHA512: d07f6bb620a2787e3b9aa747fd81a2b6452dcc76529fc872f7432b68dddbe8a8a0f4375214cdb200b58611867a78c424ac8fcdc802a7c3aca3a32edfcfc9d59e
+Homepage: https://github.com/docker/scan-cli-plugin
+Description: Docker scan cli plugin.
+
+Package: docker-scan-plugin
+Architecture: amd64
+Version: 0.23.0~ubuntu-jammy
+Priority: optional
+Section: admin
+Source: docker-ce (5:20.10.22~3-0~ubuntu-jammy)
+Maintainer: Docker <support@docker.com>
+Installed-Size: 12326
+Enhances: docker-ce-cli
+Filename: dists/jammy/pool/stable/amd64/docker-scan-plugin_0.23.0~ubuntu-jammy_amd64.deb
+Size: 3623236
+MD5sum: e6145dc1ba186e26ad6f726f16ff974c
+SHA1: 50e5e6dbc4a092a2eb11681e23c7672c2e3ba6f4
+SHA256: 05f6da06c84e4ee0c55598976f842f0cbb218fe979f737c2dbfce696edac3b68
+SHA512: 149f9aba3fad6e67f1f069b77bbe54298df92d6061880aa2d4fc9365a2b5d0d108522cb8420bc9bbfe506503cf3b48ab5c820110cc901d1db380bee789e2caa6
+Homepage: https://github.com/docker/scan-cli-plugin
+Description: Docker scan cli plugin.
+
