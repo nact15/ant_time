@@ -18,7 +18,9 @@ class BaseMessenger {
       borderRadius: const BorderRadius.all(Radius.circular(8)),
       messageText: Text(
         message,
-        style: AppTextStyles.messengerStyle,
+        style: AppTextStyles.messengerStyle.copyWith(
+          color: context.theme.reversedColor,
+        ),
       ),
       shouldIconPulse: typeMessage == TypeMessage.error,
       flushbarStyle: FlushbarStyle.FLOATING,

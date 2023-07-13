@@ -11,7 +11,9 @@ import 'package:ant_time_flutter/ui/pages/issues/bloc/issues_bloc.dart';
 import 'package:ant_time_flutter/ui/pages/timer/issue_bloc/issue_bloc.dart';
 
 class TimerWidget extends StatelessWidget {
-  const TimerWidget({Key? key}) : super(key: key);
+  TimerWidget({Key? key}) : super(key: key);
+
+  bool _isFavorite = false;
 
   @override
   Widget build(BuildContext context) {
@@ -31,14 +33,23 @@ class TimerWidget extends StatelessWidget {
                 padding: const EdgeInsets.only(top: 13),
                 child: BlocBuilder<IssueBloc, IssueState>(
                   builder: (context, state) {
-                    return BaseHoveredWidget(
-                      onTap: () => context.read<IssuesBloc>().add(IssuesChangeFavorite(state.issue!)),
-                      svgIcon: (state.issue?.favorite ?? false) ? AppAssets.starIcon : AppAssets.emptyStarIcon,
-                      width: 23,
-                      height: 23,
-                      color: (state.issue?.favorite ?? false)
-                          ? context.theme.primaryColor
-                          : context.theme.switcherCheckedColor,
+                    return StatefulBuilder(
+                      builder: (_, setState) {
+                        return BaseHoveredWidget(
+                          onTap: () {
+                            context.read<IssuesBloc>().add(IssuesChangeFavorite(state.issue!));
+                            setState(() => _isFavorite = !_isFavorite);
+                          },
+                          svgIcon: ((state.issue?.favorite ?? false) || _isFavorite)
+                              ? AppAssets.starIcon
+                              : AppAssets.emptyStarIcon,
+                          width: 23,
+                          height: 23,
+                          color: (state.issue?.favorite ?? false)
+                              ? context.theme.primaryColor
+                              : context.theme.switcherCheckedColor,
+                        );
+                      },
                     );
                   },
                 ),
@@ -74,12 +85,12 @@ class TimerWidget extends StatelessWidget {
                   height: 30,
                   child: (state.status.notSelected)
                       ? Center(
-                    child: Text(
-                      context.localizations.selectActivity,
-                      style: AppTextStyles.greySubStyle,
-                      textAlign: TextAlign.center,
-                    ),
-                  )
+                          child: Text(
+                            context.localizations.selectActivity,
+                            style: AppTextStyles.greySubStyle,
+                            textAlign: TextAlign.center,
+                          ),
+                        )
                       : const SizedBox(),
                 ),
               );

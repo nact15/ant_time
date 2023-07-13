@@ -66,6 +66,7 @@ class _ProjectsWidgetState extends State<ProjectsWidget> {
                       context.read<IssuesBloc>().add(IssuesFetch(
                             page: 0,
                             clearSearch: true,
+                            projectId: -1,
                           ));
                     }
                     _controller.text = state.searchingProjects?.firstOrNull?.name ?? '';

@@ -90,42 +90,50 @@ class _IssuesListState extends State<IssuesList> {
                         );
                       },
                     ),
-                    SizedBox(
-                      width: 250,
-                      height: 40,
-                      child: BaseTextField(
-                        maxLines: 1,
-                        onEditingComplete: () => context.read<IssuesBloc>().add(IssuesFetch(
-                              searchSubject: _searchController.text,
-                              page: 0,
-                              clearSearch: false,
-                            )),
-                        suffix: Padding(
-                          padding: const EdgeInsets.only(right: 25),
-                          child: BaseIcon(
-                            size: 8,
-                            width: 8,
-                            height: 8,
-                            padding: EdgeInsets.zero,
-                            icon: AppIcons.cancelIcon,
-                            onTap: () {
-                              _searchController.clear();
-                              context.read<IssuesBloc>().add(IssuesFetch(
+                    BlocBuilder<IssuesBloc, IssuesState>(
+                      builder: (context, state) {
+                        return Visibility(
+                          maintainState: true,
+                          visible: state.typeIssues == TypeIssues.all,
+                          child: SizedBox(
+                            width: 250,
+                            height: 40,
+                            child: BaseTextField(
+                              maxLines: 1,
+                              onEditingComplete: () => context.read<IssuesBloc>().add(IssuesFetch(
+                                    searchSubject: _searchController.text,
                                     page: 0,
-                                    clearSearch: true,
-                                  ));
-                            },
+                                    clearSearch: false,
+                                  )),
+                              suffix: Padding(
+                                padding: const EdgeInsets.only(right: 25),
+                                child: BaseIcon(
+                                  size: 8,
+                                  width: 8,
+                                  height: 8,
+                                  padding: EdgeInsets.zero,
+                                  icon: AppIcons.cancelIcon,
+                                  onTap: () {
+                                    _searchController.clear();
+                                    context.read<IssuesBloc>().add(IssuesFetch(
+                                          page: 0,
+                                          clearSearch: true,
+                                        ));
+                                  },
+                                ),
+                              ),
+                              controller: _searchController,
+                              prefixIcon: const Padding(
+                                padding: EdgeInsets.only(left: 23, right: 13),
+                                child: Icon(
+                                  AppIcons.searchIcon,
+                                  size: 18,
+                                ),
+                              ),
+                            ),
                           ),
-                        ),
-                        controller: _searchController,
-                        prefixIcon: const Padding(
-                          padding: EdgeInsets.only(left: 23, right: 13),
-                          child: Icon(
-                            AppIcons.searchIcon,
-                            size: 18,
-                          ),
-                        ),
-                      ),
+                        );
+                      },
                     ),
                   ],
                 ),

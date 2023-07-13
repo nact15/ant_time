@@ -26,15 +26,19 @@ class IssueBloc extends BaseBloc<IssueEvent, IssueState> {
         _defaultActivityUseCase = defaultActivityUseCase,
         super(IssueState(status: DataStatus())) {
     on<IssueAdd>(_onIssueAdd);
+
     on<IssueFindById>(_onIssueFindById);
+
     on<IssuePushTime>(
       _onIssuePushTime,
       transformer: sequential(),
     );
+
     on<IssueSetActivity>((event, emit) {
       _issue.pushedTime = Duration.zero;
       _selectedActivity = event.activity;
     });
+
     on<IssueClearData>(
       (event, emit) {
         _selectedActivity = null;

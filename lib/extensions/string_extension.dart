@@ -5,7 +5,7 @@ extension StringExtension on String {
 
   String get limitedLink {
     if (length > 15) {
-      return substring(0, 11) + '..' + substring(indexOf('.'));
+      return '${substring(0, 11)}..${substring(indexOf('.'))}';
     }
 
     return this;

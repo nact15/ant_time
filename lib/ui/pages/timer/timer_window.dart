@@ -22,7 +22,7 @@ class _TimerWindowState extends State<TimerWindow> {
       clipBehavior: Clip.antiAlias,
       contentPadding: EdgeInsets.zero,
       titlePadding: EdgeInsets.zero,
-      title: const TimerWidget(),
+      title: TimerWidget(),
       content: BlocBuilder<IssueBloc, IssueState>(
         builder: (context, state) {
           if (state.issue != null) {
